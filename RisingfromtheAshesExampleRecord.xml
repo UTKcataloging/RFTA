@@ -12,7 +12,8 @@
         Museum and Gatlinburg resident. Ludden discusses the the time prior to leaving 
         her home, the evacuation experience, and the return to Gatlinburg to assess damages. 
         Ludden recalls the community efforts that brought people together after the Chimney 
-        Tops II Wildfires.</abstract>
+        Tops II Wildfires. This quote touches on some of the interview's main themes: 
+        "After this, I didn't realize how connected we were in the community."</abstract>
     <tableOfContents>The Day of the Fire -- Community center -- Evacuation -- The Following Days -- Loss -- Restarting</tableOfContents>
     <originInfo>
         <dateCreated>February 6, 2017</dateCreated>
@@ -84,25 +85,30 @@
             <pbcore:pbcoreIdentifier>Andrea_Ludden_2_6_17_RNC014</pbcore:pbcoreIdentifier>
             <pbcore:pbcoreTitle>Andrea Ludden oral history, February 6, 2017</pbcore:pbcoreTitle>
             <!-- Representative quote from interview -->
-            <pbcore:pbcoreDescription>"After this, I didn't realize how connected we were in the community."</pbcore:pbcoreDescription>
+            <pbcore:pbcoreDescription>APPL interview with Andrea Ludden, administrator of the Salt &amp; Pepper 
+                Museum and Gatlinburg resident. Ludden discusses the the time prior to leaving 
+                her home, the evacuation experience, and the return to Gatlinburg to assess damages. 
+                Ludden recalls the community efforts that brought people together after the Chimney 
+                Tops II Wildfires. This quote touches on some of the interview's main themes: 
+                "After this, I didn't realize how connected we were in the community."</pbcore:pbcoreDescription>
             <!-- Time values from the metadata spreadsheet will need to be transformed to show total seconds -->
-            <pbcore:pbcorePart partType="iiif" partTypeAnnotation="Interview Question" startTime="44" endTime="1248">
+            <pbcore:pbcorePart partType="iiif" partTypeAnnotation="Interview Questions" startTime="44" endTime="1248">
                 <pbcore:pbcoreIdentifier>Andrea_Ludden_2_6_17_RNC014_Q1</pbcore:pbcoreIdentifier>
                 <pbcore:pbcoreTitle>Can you start at the beginning when you knew something was different?</pbcore:pbcoreTitle>
                 <pbcore:pbcoreDescription>Question 1</pbcore:pbcoreDescription>
             </pbcore:pbcorePart>
-            <pbcore:pbcorePart partType="iiif" partTypeAnnotation="Interview Question" startTime="1248" endTime="1674">
+            <pbcore:pbcorePart partType="iiif" partTypeAnnotation="Interview Questions" startTime="1248" endTime="1674">
                 <pbcore:pbcoreIdentifier>Andrea_Ludden_2_6_17_RNC014_Q2</pbcore:pbcoreIdentifier>
                 <pbcore:pbcoreTitle>So it took all that time to get to the hotel?</pbcore:pbcoreTitle>
                 <pbcore:pbcoreDescription>Question 2</pbcore:pbcoreDescription>
             </pbcore:pbcorePart>
-            <pbcore:pbcorePart partType="iiif" partTypeAnnotation="Interview Question" startTime="1674" endTime="2240">
+            <pbcore:pbcorePart partType="iiif" partTypeAnnotation="Interview Questions" startTime="1674" endTime="2240">
                 <pbcore:pbcoreIdentifier>Andrea_Ludden_2_6_17_RNC014_Q3</pbcore:pbcoreIdentifier>
                 <pbcore:pbcoreTitle>Were these people that stayed there?</pbcore:pbcoreTitle>
                 <pbcore:pbcoreDescription>Question 3</pbcore:pbcoreDescription>
             </pbcore:pbcorePart>
             <!-- Note that there is no end time because no value is in the metadata spreadsheet -->
-            <pbcore:pbcorePart partType="iiif" partTypeAnnotation="Interview Question" startTime="2240">
+            <pbcore:pbcorePart partType="iiif" partTypeAnnotation="Interview Questions" startTime="2240">
                 <pbcore:pbcoreIdentifier>Andrea_Ludden_2_6_17_RNC014_Q4</pbcore:pbcoreIdentifier>
                 <pbcore:pbcoreTitle>What happened to the family at the end of the street? Did their house burn?</pbcore:pbcoreTitle>
                 <pbcore:pbcoreDescription>Question 4</pbcore:pbcoreDescription>
@@ -124,32 +130,32 @@
                 <pbcore:pbcoreDescription>Interviewee discusses Rocky Top Sports World.</pbcore:pbcoreDescription>
             </pbcore:pbcorePart>
             <!-- Chapter/tableOfContents values with timestamps are included as parts here -->
-            <pbcore:pbcorePart partType="iiif" partTypeAnnotation="Chapter" startTime="0" endTime="451">
+            <pbcore:pbcorePart partType="iiif" partTypeAnnotation="Chapters" startTime="0" endTime="451">
                 <pbcore:pbcoreIdentifier>Andrea_Ludden_2_6_17_RNC014_C1</pbcore:pbcoreIdentifier>
                 <pbcore:pbcoreTitle>The Day of the Fire</pbcore:pbcoreTitle>
                 <pbcore:pbcoreDescription>The Day of the Fire chapter.</pbcore:pbcoreDescription>
             </pbcore:pbcorePart>
-            <pbcore:pbcorePart partType="iiif" partTypeAnnotation="Chapter" startTime="451" endTime="1208">
+            <pbcore:pbcorePart partType="iiif" partTypeAnnotation="Chapters" startTime="451" endTime="1208">
                 <pbcore:pbcoreIdentifier>Andrea_Ludden_2_6_17_RNC014_C2</pbcore:pbcoreIdentifier>
                 <pbcore:pbcoreTitle>Community Center</pbcore:pbcoreTitle>
                 <pbcore:pbcoreDescription>Community Center chapter.</pbcore:pbcoreDescription>
             </pbcore:pbcorePart>
-            <pbcore:pbcorePart partType="iiif" partTypeAnnotation="Chapter" startTime="1208" endTime="1660">
+            <pbcore:pbcorePart partType="iiif" partTypeAnnotation="Chapters" startTime="1208" endTime="1660">
                 <pbcore:pbcoreIdentifier>Andrea_Ludden_2_6_17_RNC014_C3</pbcore:pbcoreIdentifier>
                 <pbcore:pbcoreTitle>Evacuation</pbcore:pbcoreTitle>
                 <pbcore:pbcoreDescription>Evacuation chapter.</pbcore:pbcoreDescription>
             </pbcore:pbcorePart>
-            <pbcore:pbcorePart partType="iiif" partTypeAnnotation="Chapter" startTime="1660" endTime="1867">
+            <pbcore:pbcorePart partType="iiif" partTypeAnnotation="Chapters" startTime="1660" endTime="1867">
                 <pbcore:pbcoreIdentifier>Andrea_Ludden_2_6_17_RNC014_C4</pbcore:pbcoreIdentifier>
                 <pbcore:pbcoreTitle>The Following Days</pbcore:pbcoreTitle>
                 <pbcore:pbcoreDescription>The Following Days chapter.</pbcore:pbcoreDescription>
             </pbcore:pbcorePart>
-            <pbcore:pbcorePart partType="iiif" partTypeAnnotation="Chapter" startTime="1867" endTime="2350">
+            <pbcore:pbcorePart partType="iiif" partTypeAnnotation="Chapters" startTime="1867" endTime="2350">
                 <pbcore:pbcoreIdentifier>Andrea_Ludden_2_6_17_RNC014_C5</pbcore:pbcoreIdentifier>
                 <pbcore:pbcoreTitle>Loss</pbcore:pbcoreTitle>
                 <pbcore:pbcoreDescription>Loss chapter.</pbcore:pbcoreDescription>
             </pbcore:pbcorePart>
-            <pbcore:pbcorePart partType="iiif" partTypeAnnotation="Chapter" startTime="1255" endTime="1355">
+            <pbcore:pbcorePart partType="iiif" partTypeAnnotation="Chapters" startTime="1255" endTime="1355">
                 <pbcore:pbcoreIdentifier>Andrea_Ludden_2_6_17_RNC014_C6</pbcore:pbcoreIdentifier>
                 <pbcore:pbcoreTitle>Restarting</pbcore:pbcoreTitle>
                 <pbcore:pbcoreDescription>Restarting chapter.</pbcore:pbcoreDescription>
