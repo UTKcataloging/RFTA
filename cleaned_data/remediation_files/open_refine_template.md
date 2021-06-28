@@ -50,8 +50,7 @@
 <relatedItem displayLabel="Project" type="host"><titleInfo><title>Rising from the Ashes Oral Histories</title></titleInfo></relatedItem>
 <recordInfo><recordContentSource valueURI="{{cells['recordContentSource_URI'].value}}">{{cells['recordContentSource'].value}}</recordContentSource></recordInfo>
 <accessCondition type="use and reproduction" xlink:href="{{cells['License_URI'].value}}">{{cells['License'].value}}</accessCondition>
-<extension>
-<pbcoreDescriptionDocument xmlns:pbcore="http://www.pbcore.org/PBCore/PBCoreNamespace.html" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.pbcore.org/PBCore/PBCoreNamespace.html https://raw.githubusercontent.com/WGBH/PBCore_2.1/master/pbcore-2.1.xsd">
+<extension xmlns:pbcore="http://www.pbcore.org/PBCore/PBCoreNamespace.html" xsi:schemaLocation="http://www.pbcore.org/PBCore/PBCoreNamespace.html https://raw.githubusercontent.com/WGBH/PBCore_2.1/master/pbcore-2.1.xsd"><pbcore:pbcoreDescriptionDocument>
 {{if(isBlank(cells['Interview_Question_1'].value), '', '<pbcore:pbcoreIdentifier source="local">' + cells['filename'].value + '</pbcore:pbcoreIdentifier>' + '<pbcore:pbcoreTitle>' + cells['title'].value + '</pbcore:pbcoreTitle>' + '<pbcore:pbcoreDescription>' + cells['Quote from Interview'].value + '</pbcore:pbcoreDescription>' +
 '<pbcore:pbcorePart partType="Interview Questions" startTime="' + cells['Interview_Question_1_TC'].value + if(isBlank(cells['Interview_Question_2_TC'].value), '', '" endTime="' + cells['Interview_Question_2_TC'].value + '"') + '><pbcore:pbcoreIdentifier source="local">' + cells['filename'].value + '_Q1</pbcore:pbcoreIdentifier>' + '<pbcore:pbcoreTitle>' + cells['Interview_Question_1'].value + '</pbcore:pbcoreTitle><pbcore:pbcoreDescription>Question 1</pbcore:pbcoreDescription>')}}
 {{if(isBlank(cells['Location_1'].value), '',
@@ -295,7 +294,8 @@
 
 {{if(isBlank(cells['Interview_Question_72'].value), '',
 '<pbcore:pbcorePart partType="Interview Questions" startTime="' + cells['Interview_Question_72_TC'].value + if(isBlank(cells['Interview_Question_73_TC'].value), '" endTime="' +cells['extent'].value + '"', '" endTime="' + cells['Interview_Question_73_TC'].value + '"') + '><pbcore:pbcoreIdentifier source="local">' + cells['filename'].value + '_Q72</pbcore:pbcoreIdentifier>' + '<pbcore:pbcoreTitle>' + cells['Interview_Question_72'].value + '</pbcore:pbcoreTitle><pbcore:pbcoreDescription>Question 72</pbcore:pbcoreDescription>')}}
-
+</pbcore:pbcoreDescriptionDocument>
+</extension>
 </mods>
 
 ```
