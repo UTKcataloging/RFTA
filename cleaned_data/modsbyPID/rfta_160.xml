@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">Virginia_Turner_2_27_17_VN800042</identifier>
+   <identifier type="pid">rfta_160</identifier>
+   <titleInfo>
+      <title>Interview with Virginia Turner, 2017-02-27</title>
+   </titleInfo>
+   <abstract>APPL interview with Virginia Turner, resident of Gatlinburg. Turner, being a truck driver, first received reports of the fire while out of town. She recounts the worry about returning home after the disaster and the pain of losing her home. She shares her experiences with different charity organizations aiding survivors of the fire. This is a representative quote from the interview: "I saw a turtle shell and he was right beside of the tree and it bothered me so bad because I was sitting there thinking that little fellow couldn't get away. His whole shell was there, bottom part and top part of his little shell, but he was gone."</abstract>
+   <name>
+      <namePart>Turner, Virginia</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm>
+      </role>
+   </name>
+   <name>
+      <namePart>McDonald, Karen</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/ivr">Interviewer</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated encoding="edtf" keyDate="yes">2017-02-27</dateCreated>
+      <place>
+         <placeTerm valueURI="http://id.loc.gov/authorities/names/n80040520">Gatlinburg (Tenn.)</placeTerm>
+      </place>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/page/aat/300026392">interviews</form>
+      <extent>00:31:27</extent>
+   </physicalDescription>
+   <subject displayLabel="Narrator Class">
+      <topic>Individuals (tourists or locals) directly affected by the fire</topic>
+   </subject>
+   <subject displayLabel="Narrator Class">
+      <topic>Individuals/families suffering losses</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85038299">
+      <topic>Disaster relief</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85146723">
+      <topic>Wildfires</topic>
+   </subject>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <typeOfResource>sound recording-nonmusical</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Rising from the Ashes Oral Histories</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n2011077349">Anna Porter Public Library</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+   <extension xmlns:pbcore="http://www.pbcore.org/PBCore/PBCoreNamespace.html"
+              xsi:schemaLocation="http://www.pbcore.org/PBCore/PBCoreNamespace.html https://raw.githubusercontent.com/WGBH/PBCore_2.1/master/pbcore-2.1.xsd">
+      <pbcore:pbcoreDescriptionDocument>
+         <pbcore:pbcoreIdentifier source="local">Virginia_Turner_2_27_17_VN800042</pbcore:pbcoreIdentifier>
+         <pbcore:pbcoreTitle>Interview with Virginia Turner, 2017-02-27</pbcore:pbcoreTitle>
+         <pbcore:pbcoreDescription>"I saw a turtle shell and he was right beside of the tree and it bothered me so bad because I was sitting there thinking that little fellow couldn't get away. His whole shell was there, bottom part and top part of his little shell, but he was gone."</pbcore:pbcoreDescription>
+         <pbcore:pbcorePart partType="Chapters" startTime="00:00:00" endTime="00:05:16">
+            <pbcore:pbcoreIdentifier source="local">Virginia_Turner_2_27_17_VN800042_C1</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>First Reports of Fire</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>First Reports of Fire chapter.</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Chapters" startTime="00:05:16" endTime="00:12:25">
+            <pbcore:pbcoreIdentifier source="local">Virginia_Turner_2_27_17_VN800042_C2</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Returning Home</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Returning Home chapter.</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Chapters" startTime="00:12:25" endTime="00:19:31">
+            <pbcore:pbcoreIdentifier source="local">Virginia_Turner_2_27_17_VN800042_C3</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Loss and Reclaimed</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Loss and Reclaimed chapter.</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Chapters" startTime="00:19:31" endTime="00:26:30">
+            <pbcore:pbcoreIdentifier source="local">Virginia_Turner_2_27_17_VN800042_C4</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Rebuilding</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Rebuilding chapter.</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Chapters" startTime="00:26:30" endTime="00:31:27">
+            <pbcore:pbcoreIdentifier source="local">Virginia_Turner_2_27_17_VN800042_C5</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Gratitude</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Gratitude chapter.</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+      </pbcore:pbcoreDescriptionDocument>
+   </extension>
+</mods>

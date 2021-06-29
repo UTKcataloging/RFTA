@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">Robin_Nelson_2_28_17_VN800043</identifier>
+   <identifier type="pid">rfta_154</identifier>
+   <titleInfo>
+      <title>Interview with Robin Nelson, 2017-02-28</title>
+   </titleInfo>
+   <abstract>APPL interview with Robin Nelson, resident of Gatlinburg. Nelson discusses the heavy smoke on the day of the fire and her family's decision to be cautious and evacuate early. She recounts the shock of returning to the remains of her house and some of the the trials to rebuild. This is a representative quote from the interview: "The hard part is we left, our house was perfectly intact. We went back a few days later to a concrete foundation."</abstract>
+   <name>
+      <namePart>Nelson, Robin</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm>
+      </role>
+   </name>
+   <name>
+      <namePart>McDonald, Karen</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/ivr">Interviewer</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated encoding="edtf" keyDate="yes">2017-02-28</dateCreated>
+      <place>
+         <placeTerm valueURI="http://id.loc.gov/authorities/names/n80040520">Gatlinburg (Tenn.)</placeTerm>
+      </place>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/page/aat/300026392">interviews</form>
+      <extent>00:22:24</extent>
+   </physicalDescription>
+   <subject displayLabel="Narrator Class">
+      <topic>Individuals (tourists or locals) directly affected by the fire</topic>
+   </subject>
+   <subject displayLabel="Narrator Class">
+      <topic>Individuals/families suffering losses</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85045925">
+      <topic>Evacuation of civilians</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85146723">
+      <topic>Wildfires</topic>
+   </subject>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <typeOfResource>sound recording-nonmusical</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Rising from the Ashes Oral Histories</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n2011077349">Anna Porter Public Library</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+   <extension xmlns:pbcore="http://www.pbcore.org/PBCore/PBCoreNamespace.html"
+              xsi:schemaLocation="http://www.pbcore.org/PBCore/PBCoreNamespace.html https://raw.githubusercontent.com/WGBH/PBCore_2.1/master/pbcore-2.1.xsd">
+      <pbcore:pbcoreDescriptionDocument>
+         <pbcore:pbcoreIdentifier source="local">Robin_Nelson_2_28_17_VN800043</pbcore:pbcoreIdentifier>
+         <pbcore:pbcoreTitle>Interview with Robin Nelson, 2017-02-28</pbcore:pbcoreTitle>
+         <pbcore:pbcoreDescription>"The hard part is we left, our house was perfectly intact. We went back a few days later to a concrete foundation."</pbcore:pbcoreDescription>
+         <pbcore:pbcorePart partType="Chapters" startTime="00:00:00" endTime="00:06:42">
+            <pbcore:pbcoreIdentifier source="local">Robin_Nelson_2_28_17_VN800043_C1</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Avoiding the Smoke</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Avoiding the Smoke chapter.</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Chapters" startTime="00:06:42" endTime="00:11:25">
+            <pbcore:pbcoreIdentifier source="local">Robin_Nelson_2_28_17_VN800043_C2</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Evacuation</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Evacuation chapter.</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Chapters" startTime="00:11:25" endTime="00:15:56">
+            <pbcore:pbcoreIdentifier source="local">Robin_Nelson_2_28_17_VN800043_C3</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>The Effects on the Community</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>The Effects on the Community chapter.</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Chapters" startTime="00:15:56" endTime="00:22:24">
+            <pbcore:pbcoreIdentifier source="local">Robin_Nelson_2_28_17_VN800043_C4</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Rebuilding</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Rebuilding chapter.</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+      </pbcore:pbcoreDescriptionDocument>
+   </extension>
+</mods>
