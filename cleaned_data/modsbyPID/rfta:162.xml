@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">Rakhae_Thadani_2_17_17_RNC004</identifier>
+   <identifier type="pid">rfta:162</identifier>
+   <titleInfo>
+      <title>Interview with Rakhae Thadani, 2017-02-17</title>
+   </titleInfo>
+   <abstract>APPL interview with Rakhee Thadani, resident of Gatlinburg. Thadani recounts the day of the fire with particular attention to the smoke. She discusses evacuating to Rocky Top with her family and how the comunity worked to support each other. She explains the comfort and joy of being able to return home after the disaster. This is a representative quote from the interview: "I was so impressed how everybody just came like a community together. They didn't think 'this person is not our race, is not our color, why are we helping?' No, they just came down to basically help a human being. A human being helping another human being."</abstract>
+   <name>
+      <namePart>Thadani, Rakhee</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm>
+      </role>
+   </name>
+   <name>
+      <namePart>McDonald, Karen</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/ivr">Interviewer</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated encoding="edtf" keyDate="yes">2017-02-17</dateCreated>
+      <place>
+         <placeTerm valueURI="http://id.loc.gov/authorities/names/n80040520">Gatlinburg (Tenn.)</placeTerm>
+      </place>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/page/aat/300026392">interviews</form>
+      <extent>00:30:00</extent>
+   </physicalDescription>
+   <subject displayLabel="Narrator Class">
+      <topic>Individuals (tourists or locals) directly affected by the fire</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85045925">
+      <topic>Evacuation of civilians</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85038299">
+      <topic>Disaster relief</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85146723">
+      <topic>Wildfires</topic>
+   </subject>
+   <subject authority="geonames" valueURI="http://sws.geonames.org/12225037">
+      <geographic>Hidden Hills Road</geographic>
+      <cartographics>
+         <coordinates>35.732079, -83.4560869</coordinates>
+      </cartographics>
+   </subject>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <typeOfResource>sound recording-nonmusical</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Rising from the Ashes Oral Histories</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n2011077349">Anna Porter Public Library</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+   <extension xmlns:pbcore="http://www.pbcore.org/PBCore/PBCoreNamespace.html"
+              xsi:schemaLocation="http://www.pbcore.org/PBCore/PBCoreNamespace.html https://raw.githubusercontent.com/WGBH/PBCore_2.1/master/pbcore-2.1.xsd">
+      <pbcore:pbcoreDescriptionDocument>
+         <pbcore:pbcoreIdentifier source="local">Rakhae_Thadani_2_17_17_RNC004</pbcore:pbcoreIdentifier>
+         <pbcore:pbcoreTitle>Interview with Rakhae Thadani, 2017-02-17</pbcore:pbcoreTitle>
+         <pbcore:pbcoreDescription>"I was so impressed how everybody just came like a community together. They didn't think 'this person is not our race, is not our color, why are we helping?' No, they just came down to basically help a human being. A human being helping another human being."</pbcore:pbcoreDescription>
+         <pbcore:pbcorePart partType="geographic" startTime="00:08:35" endTime="00:09:45">
+            <pbcore:pbcoreIdentifier source="local">Rakhae_Thadani_2_17_17_RNC004_G1</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Hidden Hills Road</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Interviewee discusses Hidden Hills Road.</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Chapters" startTime="00:00:00" endTime="00:06:38">
+            <pbcore:pbcoreIdentifier source="local">Rakhae_Thadani_2_17_17_RNC004_C1</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>The Day of the Fire</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>The Day of the Fire chapter.</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Chapters" startTime="00:06:38" endTime="00:13:45">
+            <pbcore:pbcoreIdentifier source="local">Rakhae_Thadani_2_17_17_RNC004_C2</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Evacuation</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Evacuation chapter.</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Chapters" startTime="00:13:45" endTime="00:20:12">
+            <pbcore:pbcoreIdentifier source="local">Rakhae_Thadani_2_17_17_RNC004_C3</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Community Relations</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Community Relations chapter.</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Chapters" startTime="00:20:12" endTime="00:30:00">
+            <pbcore:pbcoreIdentifier source="local">Rakhae_Thadani_2_17_17_RNC004_C4</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Returning Home</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Returning Home chapter.</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+      </pbcore:pbcoreDescriptionDocument>
+   </extension>
+</mods>

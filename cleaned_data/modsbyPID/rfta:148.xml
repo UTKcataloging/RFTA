@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">Keith_Flannerly_Darleen_Verito_1_27_17VN80009</identifier>
+   <identifier type="pid">rfta:148</identifier>
+   <titleInfo>
+      <title>Interview with Keith Flannerly and Darleen Verito, 2017-01-27</title>
+   </titleInfo>
+   <abstract>APPL interview with Keith Flannerly and Darleen Verito, residents of Gatlinburg. Flannerly and Verito discuss the day of the fire and the sudden evacuation they undertook. They recount the problems faced while driving through the smoke and other obstacles during their evacuation. They also talk about the sense of family and charity throughout the community after the wildfire. This is a representative quote from the interview: "I thought to myself as logically as I could think at that point, that this is on fire and that's on fire: the wide black part in the middle has got to be the road."
+</abstract>
+   <name>
+      <namePart>Flannerly, Keith</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm>
+      </role>
+   </name>
+   <name>
+      <namePart>Verito, Darleen</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm>
+      </role>
+   </name>
+   <name authority="naf"
+         valueURI="http://id.loc.gov/authorities/names/n2011077346">
+      <namePart>Temple, Kenton</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/ivr">Interviewer</roleTerm>
+      </role>
+   </name>
+   <name>
+      <namePart>McDonald, Karen</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/ivr">Interviewer</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated encoding="edtf" keyDate="yes">2017-01-27</dateCreated>
+      <place>
+         <placeTerm valueURI="http://id.loc.gov/authorities/names/n80040520">Gatlinburg (Tenn.)</placeTerm>
+      </place>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/page/aat/300026392">interviews</form>
+      <extent>00:50:49</extent>
+   </physicalDescription>
+   <subject displayLabel="Narrator Class">
+      <topic>Individuals (tourists or locals) directly affected by the fire</topic>
+   </subject>
+   <subject displayLabel="Narrator Class">
+      <topic>Individuals/families suffering losses</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85045925">
+      <topic>Evacuation of civilians</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85038299">
+      <topic>Disaster relief</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85146723">
+      <topic>Wildfires</topic>
+   </subject>
+   <subject authority="geonames" valueURI="http://sws.geonames.org/4612619">
+      <geographic>Chalet Village</geographic>
+      <cartographics>
+         <coordinates>35.725996, -83.534279</coordinates>
+      </cartographics>
+   </subject>
+   <subject authority="geonames" valueURI="http://sws.geonames.org/12225052">
+      <geographic>Wiley Oakley Drive</geographic>
+      <cartographics>
+         <coordinates>35.726964, -83.530655</coordinates>
+      </cartographics>
+   </subject>
+   <subject authority="geonames" valueURI="http://sws.geonames.org/5839719">
+      <geographic>The Spur</geographic>
+      <cartographics>
+         <coordinates>35.7497168, -83.5300034</coordinates>
+      </cartographics>
+   </subject>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <typeOfResource>sound recording-nonmusical</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Rising from the Ashes Oral Histories</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n2011077349">Anna Porter Public Library</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+   <extension xmlns:pbcore="http://www.pbcore.org/PBCore/PBCoreNamespace.html"
+              xsi:schemaLocation="http://www.pbcore.org/PBCore/PBCoreNamespace.html https://raw.githubusercontent.com/WGBH/PBCore_2.1/master/pbcore-2.1.xsd">
+      <pbcore:pbcoreDescriptionDocument>
+         <pbcore:pbcoreIdentifier source="local">Keith_Flannerly_Darleen_Verito_1_27_17VN80009</pbcore:pbcoreIdentifier>
+         <pbcore:pbcoreTitle>Interview with Keith Flannerly and Darleen Verito, 2017-01-27</pbcore:pbcoreTitle>
+         <pbcore:pbcoreDescription>"I thought to myself as logically as I could think at that point, that this is on fire and that's on fire: the wide black part in the middle has got to be the road."
+</pbcore:pbcoreDescription>
+         <pbcore:pbcorePart partType="geographic" startTime="00:00:00" endTime="00:07:48">
+            <pbcore:pbcoreIdentifier source="local">Keith_Flannerly_Darleen_Verito_1_27_17VN80009_G1</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Chalet Village</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Interviewee discusses Chalet Village.</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Chapters" startTime="00:00:00" endTime="00:06:12">
+            <pbcore:pbcoreIdentifier source="local">Keith_Flannerly_Darleen_Verito_1_27_17VN80009_C1</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>The Day of the Fire</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>The Day of the Fire chapter.</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="geographic" startTime="00:07:48" endTime="00:13:20">
+            <pbcore:pbcoreIdentifier source="local">Keith_Flannerly_Darleen_Verito_1_27_17VN80009_G2</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Wiley Oakley Drive</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Interviewee discusses Wiley Oakley Drive.</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Chapters" startTime="00:06:12" endTime="00:13:20">
+            <pbcore:pbcoreIdentifier source="local">Keith_Flannerly_Darleen_Verito_1_27_17VN80009_C2</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Evacuation</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Evacuation chapter.</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="geographic" startTime="00:13:20" endTime="00:15:55">
+            <pbcore:pbcoreIdentifier source="local">Keith_Flannerly_Darleen_Verito_1_27_17VN80009_G3</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>The Spur</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Interviewee discusses The Spur.</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Chapters" startTime="00:13:20" endTime="00:19:09">
+            <pbcore:pbcoreIdentifier source="local">Keith_Flannerly_Darleen_Verito_1_27_17VN80009_C3</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>The Spur</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>The Spur chapter.</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Chapters" startTime="00:19:09" endTime="00:27:17">
+            <pbcore:pbcoreIdentifier source="local">Keith_Flannerly_Darleen_Verito_1_27_17VN80009_C4</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Loss</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Loss chapter.</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Chapters" startTime="00:27:17" endTime="00:33:58">
+            <pbcore:pbcoreIdentifier source="local">Keith_Flannerly_Darleen_Verito_1_27_17VN80009_C5</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Lasting Impact</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Lasting Impact chapter.</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Chapters" startTime="00:33:58" endTime="00:41:07">
+            <pbcore:pbcoreIdentifier source="local">Keith_Flannerly_Darleen_Verito_1_27_17VN80009_C6</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Community Efforts</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Community Efforts chapter.</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Chapters" startTime="00:41:07" endTime="00:50:49">
+            <pbcore:pbcoreIdentifier source="local">Keith_Flannerly_Darleen_Verito_1_27_17VN80009_C7</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Charity in the Community</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Charity in the Community chapter.</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+      </pbcore:pbcoreDescriptionDocument>
+   </extension>
+</mods>
