@@ -9,7 +9,7 @@
    <titleInfo>
       <title>Interview with Karen McDonald, 2017-01-26</title>
    </titleInfo>
-   <abstract/>
+   <abstract>APPL recording that provides insight into the structure and form of their process. As part of this, a brief interview with Karen McDonald about the day of the fire is included.</abstract>
    <name>
       <namePart>McDonald, Karen</namePart>
       <role>
@@ -20,13 +20,6 @@
    <name authority="naf"
          valueURI="http://id.loc.gov/authorities/names/n2011077346">
       <namePart>Temple, Kenton</namePart>
-      <role>
-         <roleTerm authority="marcrelator"
-                   valueURI="http://id.loc.gov/vocabulary/relators/ivr">Interviewer</roleTerm>
-      </role>
-   </name>
-   <name>
-      <namePart>McDonald, Karen</namePart>
       <role>
          <roleTerm authority="marcrelator"
                    valueURI="http://id.loc.gov/vocabulary/relators/ivr">Interviewer</roleTerm>
