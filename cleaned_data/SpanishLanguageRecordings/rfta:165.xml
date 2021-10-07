@@ -123,12 +123,22 @@
             <pbcore:pbcoreTitle>Me puede decir por favor su nombre (Can you tell me your name please).</pbcore:pbcoreTitle>
             <pbcore:pbcoreDescription>Question 1</pbcore:pbcoreDescription>
          </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="geographic" startTime="00:01:25" endTime="00:01:33">
+            <pbcore:pbcoreIdentifier source="local">2021_03_03_Rodriguez_Julia_G1</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Honduras</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Interviewee discusses Honduras.</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
          <pbcore:pbcorePart partType="Interview Questions"
                             startTime="00:01:15"
                             endTime="00:01:51">
             <pbcore:pbcoreIdentifier source="local">2021_03_03_Rodriguez_Julia_Q2</pbcore:pbcoreIdentifier>
             <pbcore:pbcoreTitle>Tiempo ha vivido en Gatlinburg, y nos puede contar como llegó al área, de donde es usted originalmente? (How long have you lived in Gatlinburg and can you tell us how you arrived to the area?)</pbcore:pbcoreTitle>
             <pbcore:pbcoreDescription>Question 2</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="geographic" startTime="00:04:20" endTime="00:04:33">
+            <pbcore:pbcoreIdentifier source="local">2021_03_03_Rodriguez_Julia_G2</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Rocky Top</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Interviewee discusses Rocky Top.</pbcore:pbcoreDescription>
          </pbcore:pbcorePart>
          <pbcore:pbcorePart partType="Interview Questions"
                             startTime="00:01:51"
@@ -137,12 +147,22 @@
             <pbcore:pbcoreTitle>Okay, nos puede hablar un poco sobre su vida en Gatlinburg por ejemplo, tiene familia en el área? En que trabaja y, como usted se ha integrado en la comunidad? (Can you tell us about your life in Gatlinburg, such as your family, employment, or community involvement?)</pbcore:pbcoreTitle>
             <pbcore:pbcoreDescription>Question 3</pbcore:pbcoreDescription>
          </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="geographic" startTime="00:07:19" endTime="00:08:45">
+            <pbcore:pbcoreIdentifier source="local">2021_03_03_Rodriguez_Julia_G3</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Parkway (US-321/US 441 S)</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Interviewee discusses Parkway (US-321/US 441 S).</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
          <pbcore:pbcorePart partType="Interview Questions"
                             startTime="00:03:55"
                             endTime="00:14:31">
             <pbcore:pbcoreIdentifier source="local">2021_03_03_Rodriguez_Julia_Q4</pbcore:pbcoreIdentifier>
             <pbcore:pbcoreTitle>Muy bien y, nos puede describir su hogar y la parte de la ciudad en la que vivía, o todavía vive, antes de que pasaran los incendios? (Can you describe your home and the part of town you lived in, or still live in, before the fires happened?)</pbcore:pbcoreTitle>
             <pbcore:pbcoreDescription>Question 4</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="geographic" startTime="00:07:19" endTime="00:08:45">
+            <pbcore:pbcoreIdentifier source="local">2021_03_03_Rodriguez_Julia_G4</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Newport</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Interviewee discusses Newport.</pbcore:pbcoreDescription>
          </pbcore:pbcorePart>
          <pbcore:pbcorePart partType="Interview Questions"
                             startTime="00:14:31"
@@ -152,6 +172,11 @@
             </pbcore:pbcoreTitle>
             <pbcore:pbcoreDescription>Question 5</pbcore:pbcoreDescription>
          </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="geographic" startTime="00:10:55" endTime="00:11:42">
+            <pbcore:pbcoreIdentifier source="local">2021_03_03_Rodriguez_Julia_G5</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Pittman Center Elementary School</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Interviewee discusses Pittman Center Elementary School.</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
          <pbcore:pbcorePart partType="Interview Questions"
                             startTime="00:17:46"
                             endTime="00:23:17">
@@ -159,6 +184,11 @@
             <pbcore:pbcoreTitle>Y, usted dónde estaba cuando se dio cuenta que había un incendio forestal arrasando con Gatlinburg, y cuál fue su, reacción inicial? (And, where were you when you realized that there was a forest fire raging through Gatlinburg, and what was your initial reaction?)
             </pbcore:pbcoreTitle>
             <pbcore:pbcoreDescription>Question 6</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="geographic" startTime="00:18:18" endTime="00:19:15">
+            <pbcore:pbcoreIdentifier source="local">2021_03_03_Rodriguez_Julia_G6</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Rocky Top</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Interviewee discusses Rocky Top.</pbcore:pbcoreDescription>
          </pbcore:pbcorePart>
          <pbcore:pbcorePart partType="Interview Questions"
                             startTime="00:23:17"
