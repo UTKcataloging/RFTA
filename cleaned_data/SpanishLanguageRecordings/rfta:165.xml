@@ -116,11 +116,18 @@
          <pbcore:pbcoreTitle>Interview with Julia Rodriguez, 2021-03-03</pbcore:pbcoreTitle>
          <!-- Revisit description if receive representative quote -->
          <pbcore:pbcoreDescription>En esta entrevista Julia Rodríguez, una nativa de Honduras y residente de Gatlinburg desde el 2000, nos cuenta sobre las horas antes de su evacuación y el viaje aterrador que vivió su familia mientras conducían fuera de Gatlinburg mientras casas y colinas se quemaban a su alrededor. Julia habla sobre como su hermana perdió su casa en los incendios y explica como los residentes de Gatlinburg tuvieron que lidiar con una crisis de vivienda y empleo agravada por los incendios. Julia también habla sobre los efectos que tuvieron los incendios en la comunidad Hispana y posiblemente lo positivo que resulto de todo lo ocurrido. </pbcore:pbcoreDescription>
-         <pbcore:pbcorePart partType="Interview Questions"
+         <pbcore:pbcorePart partType="Preguntas de entrevista"
                             startTime="00:01:07"
                             endTime="00:01:15">
+            <pbcore:pbcoreIdentifier source="local">2021_03_03_Rodriguez_Julia_esQ1</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>¿Me puede decir por favor su nombre?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Pregunta 1</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+            startTime="00:01:07"
+            endTime="00:01:15">
             <pbcore:pbcoreIdentifier source="local">2021_03_03_Rodriguez_Julia_Q1</pbcore:pbcoreIdentifier>
-            <pbcore:pbcoreTitle>Me puede decir por favor su nombre (Can you tell me your name please).</pbcore:pbcoreTitle>
+            <pbcore:pbcoreTitle>Can you tell me your name please?</pbcore:pbcoreTitle>
             <pbcore:pbcoreDescription>Question 1</pbcore:pbcoreDescription>
          </pbcore:pbcorePart>
          <pbcore:pbcorePart partType="geographic" startTime="00:01:25" endTime="00:01:33">
@@ -128,11 +135,18 @@
             <pbcore:pbcoreTitle>Honduras</pbcore:pbcoreTitle>
             <pbcore:pbcoreDescription>Interviewee discusses Honduras.</pbcore:pbcoreDescription>
          </pbcore:pbcorePart>
-         <pbcore:pbcorePart partType="Interview Questions"
+         <pbcore:pbcorePart partType="Preguntas de entrevista"
                             startTime="00:01:15"
                             endTime="00:01:51">
+            <pbcore:pbcoreIdentifier source="local">2021_03_03_Rodriguez_Julia_esQ2</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>¿Tiempo ha vivido en Gatlinburg, y nos puede contar como llegó al área, de donde es usted originalmente?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Pregunta 2</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+            startTime="00:01:15"
+            endTime="00:01:51">
             <pbcore:pbcoreIdentifier source="local">2021_03_03_Rodriguez_Julia_Q2</pbcore:pbcoreIdentifier>
-            <pbcore:pbcoreTitle>Tiempo ha vivido en Gatlinburg, y nos puede contar como llegó al área, de donde es usted originalmente? (How long have you lived in Gatlinburg and can you tell us how you arrived to the area?)</pbcore:pbcoreTitle>
+            <pbcore:pbcoreTitle>How long have you lived in Gatlinburg and can you tell us how you arrived to the area?</pbcore:pbcoreTitle>
             <pbcore:pbcoreDescription>Question 2</pbcore:pbcoreDescription>
          </pbcore:pbcorePart>
          <pbcore:pbcorePart partType="geographic" startTime="00:04:20" endTime="00:04:33">
@@ -140,11 +154,18 @@
             <pbcore:pbcoreTitle>Rocky Top</pbcore:pbcoreTitle>
             <pbcore:pbcoreDescription>Interviewee discusses Rocky Top.</pbcore:pbcoreDescription>
          </pbcore:pbcorePart>
-         <pbcore:pbcorePart partType="Interview Questions"
+         <pbcore:pbcorePart partType="Preguntas de entrevista"
                             startTime="00:01:51"
                             endTime="00:03:55">
+            <pbcore:pbcoreIdentifier source="local">2021_03_03_Rodriguez_Julia_esQ3</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>¿Nos puede hablar un poco sobre su vida en Gatlinburg por ejemplo, tiene familia en el área? ¿En que trabaja y, como usted se ha integrado en la comunidad?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Pregunta 3</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+            startTime="00:01:51"
+            endTime="00:03:55">
             <pbcore:pbcoreIdentifier source="local">2021_03_03_Rodriguez_Julia_Q3</pbcore:pbcoreIdentifier>
-            <pbcore:pbcoreTitle>Okay, nos puede hablar un poco sobre su vida en Gatlinburg por ejemplo, tiene familia en el área? En que trabaja y, como usted se ha integrado en la comunidad? (Can you tell us about your life in Gatlinburg, such as your family, employment, or community involvement?)</pbcore:pbcoreTitle>
+            <pbcore:pbcoreTitle>Can you tell us about your life in Gatlinburg, such as your family, employment, or community involvement?</pbcore:pbcoreTitle>
             <pbcore:pbcoreDescription>Question 3</pbcore:pbcoreDescription>
          </pbcore:pbcorePart>
          <pbcore:pbcorePart partType="geographic" startTime="00:07:19" endTime="00:08:45">
@@ -152,11 +173,18 @@
             <pbcore:pbcoreTitle>Parkway (US-321/US 441 S)</pbcore:pbcoreTitle>
             <pbcore:pbcoreDescription>Interviewee discusses Parkway (US-321/US 441 S).</pbcore:pbcoreDescription>
          </pbcore:pbcorePart>
-         <pbcore:pbcorePart partType="Interview Questions"
+         <pbcore:pbcorePart partType="Preguntas de entrevista"
                             startTime="00:03:55"
                             endTime="00:14:31">
+            <pbcore:pbcoreIdentifier source="local">2021_03_03_Rodriguez_Julia_esQ4</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Muy bien y, nos puede describir su hogar y la parte de la ciudad en la que vivía, o todavía vive, antes de que pasaran los incendios?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Pregunta 4</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+            startTime="00:03:55"
+            endTime="00:14:31">
             <pbcore:pbcoreIdentifier source="local">2021_03_03_Rodriguez_Julia_Q4</pbcore:pbcoreIdentifier>
-            <pbcore:pbcoreTitle>Muy bien y, nos puede describir su hogar y la parte de la ciudad en la que vivía, o todavía vive, antes de que pasaran los incendios? (Can you describe your home and the part of town you lived in, or still live in, before the fires happened?)</pbcore:pbcoreTitle>
+            <pbcore:pbcoreTitle>Can you describe your home and the part of town you lived in, or still live in, before the fires happened?</pbcore:pbcoreTitle>
             <pbcore:pbcoreDescription>Question 4</pbcore:pbcoreDescription>
          </pbcore:pbcorePart>
          <pbcore:pbcorePart partType="geographic" startTime="00:07:19" endTime="00:08:45">
