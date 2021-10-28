@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">20211013_Bales_Stephen_Lyn</identifier>
+   <titleInfo>
+      <title>Interview with Stephen Lyn Bales, 2021-10-13</title>
+   </titleInfo>
+   <abstract>Interview with Stephen Lyn Bales, a Tennessee naturalist who grew up in Gatlinburg and the Great Smoky Mountains.</abstract>
+   <name authority="naf" valueURI="http://id.loc.gov/authorities/names/n2006057276">
+      <namePart>Bales, Stephen Lyn</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm>
+      </role>
+   </name>
+   <name authority="naf" valueURI="http://id.loc.gov/authorities/names/n95090100">
+      <namePart>Smith, Steven Escar, 1962-</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/ivr">Interviewer</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated encoding="edtf" keyDate="yes">2021-10-13</dateCreated>
+      <place>
+         <placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
+      </place>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</form>
+   </physicalDescription>
+   <subject displayLabel="Narrator Class">
+      <topic>Individuals (tourists or locals) not directly affected by the fire</topic>
+   </subject>
+   <subject authority="lcsh"
+      valueURI="http://id.loc.gov/authorities/subjects/sh85146723">
+      <topic>Wildfires</topic>
+   </subject>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">English</languageTerm>
+   </language>
+   <typeOfResource>moving image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Rising from the Ashes Oral Histories</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://creativecommons.org/licenses/by/4.0/rdf">Attribution 4.0 International (CC BY 4.0)</accessCondition>
+</mods>
