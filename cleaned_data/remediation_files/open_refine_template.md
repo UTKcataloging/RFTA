@@ -35,6 +35,7 @@
 {{if(isBlank(cells['LCSH_Topic_3'].value), '', '<subject authority="lcsh" valueURI="' + cells['LCSH_Topic_3_URI'].value + '"><topic>' + cells['LCSH_Topic_3'].value + '</topic></subject>')}}
 {{if(isBlank(cells['LCSH_Topic_4'].value), '', '<subject authority="lcsh" valueURI="' + cells['LCSH_Topic_4_URI'].value + '"><topic>' + cells['LCSH_Topic_4'].value + '</topic></subject>')}}
 {{if(isBlank(cells['Geo_1'].value), '', '<subject valueURI="' + cells['Geo_1_URI'].value + '"><geographic>' + cells['Geo_1'].value + '</geographic></subject>')}}
+{{if(isBlank(cells['Geo_2'].value), '', '<subject valueURI="' + cells['Geo_2_URI'].value + '"><geographic>' + cells['Geo_2'].value + '</geographic></subject>')}}
 
 {{if(isBlank(cells['Location_1'].value), '', '<subject authority="geonames" valueURI="' + cells['Location_1_URI'].value + '"><geographic>' + cells['Location_1'].value + '</geographic><cartographics><coordinates>' + cells['Location_1_Coordinates'].value + '</coordinates></cartographics></subject>')}}
 {{if(isBlank(cells['Location_2'].value), '', '<subject authority="geonames" valueURI="' + cells['Location_2_URI'].value + '"><geographic>' + cells['Location_2'].value + '</geographic><cartographics><coordinates>' + cells['Location_2_Coordinates'].value + '</coordinates></cartographics></subject>')}}
