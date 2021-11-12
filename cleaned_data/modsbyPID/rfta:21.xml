@@ -51,6 +51,7 @@ Interview with Ken Wise, 2019-10-13</title>
    <subject valueURI="http://id.loc.gov/authorities/names/n80040520">
       <geographic>Gatlinburg (Tenn.)</geographic>
    </subject>
+   <note displayLabel="Browse">Towns in East TN including Gatlinburg, Pigeon Forge, Sevierville and Pittman Center, TN</note>
    <subject authority="geonames" valueURI="http://sws.geonames.org/4482056">
       <geographic>Newfound Gap</geographic>
       <cartographics>

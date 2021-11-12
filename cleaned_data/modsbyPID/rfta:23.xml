@@ -55,6 +55,7 @@
          <coordinates>35.712925, -83.5104784</coordinates>
       </cartographics>
    </subject>
+   <note displayLabel="Browse">Arrowmont School of Arts &amp; Crafts</note>
    <subject authority="geonames" valueURI="http://sws.geonames.org/5839719">
       <geographic>The Spur</geographic>
       <cartographics>

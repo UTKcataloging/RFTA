@@ -58,6 +58,7 @@
    <subject valueURI="http://id.loc.gov/authorities/names/n85274941">
       <geographic>Pittman Center (Tenn.)</geographic>
    </subject>
+   <note displayLabel="Browse">Towns in East TN including Gatlinburg, Pigeon Forge, Sevierville and Pittman Center, TN</note>
    <subject authority="geonames" valueURI="http://sws.geonames.org/4649150">
       <geographic>Pi Beta Phi Elementary School</geographic>
       <cartographics>
