@@ -40,10 +40,12 @@
    <subject displayLabel="Narrator Class">
       <topic>Meteorologists</topic>
    </subject>
+   <note displayLabel="Browse">Meterologists &amp; Environmentalists</note>
    <subject authority="lcsh"
             valueURI="http://id.loc.gov/authorities/subjects/sh85027037">
       <topic>Climatic changes</topic>
    </subject>
+   <note displayLabel="Browse">Ecology</note>
    <subject authority="lcsh"
             valueURI="http://id.loc.gov/authorities/subjects/sh85146723">
       <topic>Wildfires</topic>

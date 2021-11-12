@@ -40,10 +40,12 @@
    <subject displayLabel="Narrator Class">
       <topic>Individuals (tourists or locals) directly affected by the fire</topic>
    </subject>
-   <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85064517">
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85064517">
       <topic>Immigrants</topic>
    </subject>
-   <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85115055">
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85115055">
       <topic>Romanians</topic>
    </subject>
    <subject authority="lcsh"
