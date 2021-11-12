@@ -40,20 +40,5 @@
     <note displayLabel="Browse"><xsl:value-of select="'Towns in East TN including Gatlinburg, Pigeon Forge, Sevierville and Pittman Center, TN'"/></note>
   </xsl:template>
   
-  <!-- arrowmont -->
-  <xsl:template match="subject[@authority='geonames'][geographic[matches(., 'Arrowmont School of Arts and Crafts')]]">
-    <xsl:copy>
-      <xsl:apply-templates select="@*|node()"/>
-    </xsl:copy>
-    <note displayLabel="Browse"><xsl:value-of select="'Arrowmont School of Arts &amp; Crafts'"/></note>
-  </xsl:template>
-  
-  <!-- GSMNP -->
-  <xsl:template match="subject[@valueURI='http://id.loc.gov/authorities/subjects/sh2005004887']">
-    <xsl:copy>
-      <xsl:apply-templates select="@*|node()"/>
-    </xsl:copy>
-    <note displayLabel="Browse"><xsl:value-of select="'Great Smoky Mountains National Park'"/></note>
-  </xsl:template>
     
 </xsl:stylesheet>
