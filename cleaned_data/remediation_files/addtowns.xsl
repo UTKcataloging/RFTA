@@ -29,6 +29,7 @@
     </xsl:for-each>
   </xsl:template>
   
+  <!-- subject/geographic wouldn't match, for whatever reason. using `|` (union) to catch the subject/geographic paths -->
   <xsl:template match="subject[@valueURI='http://id.loc.gov/authorities/names/n82273669']
     | subject[@valueURI='http://id.loc.gov/authorities/names/n85274941']
     | subject[@valueURI='http://id.loc.gov/authorities/names/n80040520']
@@ -37,6 +38,22 @@
       <xsl:apply-templates select="@*|node()"/>
     </xsl:copy>
     <note displayLabel="Browse"><xsl:value-of select="'Towns in East TN including Gatlinburg, Pigeon Forge, Sevierville and Pittman Center, TN'"/></note>
+  </xsl:template>
+  
+  <!-- arrowmont -->
+  <xsl:template match="subject[@authority='geonames'][geographic[matches(., 'Arrowmont School of Arts and Crafts')]]">
+    <xsl:copy>
+      <xsl:apply-templates select="@*|node()"/>
+    </xsl:copy>
+    <note displayLabel="Browse"><xsl:value-of select="'Arrowmont School of Arts &amp; Crafts'"/></note>
+  </xsl:template>
+  
+  <!-- GSMNP -->
+  <xsl:template match="subject[@valueURI='http://id.loc.gov/authorities/subjects/sh2005004887']">
+    <xsl:copy>
+      <xsl:apply-templates select="@*|node()"/>
+    </xsl:copy>
+    <note displayLabel="Browse"><xsl:value-of select="'Great Smoky Mountains National Park'"/></note>
   </xsl:template>
     
 </xsl:stylesheet>
