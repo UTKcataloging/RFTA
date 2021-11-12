@@ -29,7 +29,15 @@
     </xsl:for-each>
   </xsl:template>
   
-  <xsl:template match="subject[geographic[matches(lower-case(.), 'sevierville (tenn.)')
+  <xsl:template match="subject[geographic[matches(., 'Sevierville (Tenn.)')]]">
+    <xsl:copy>
+      <xsl:apply-templates select="@*|node()"/>
+    </xsl:copy>
+    <note displayLabel="Weird Stuff"><xsl:sequence select="'what the heck'"/></note>
+  </xsl:template>
+  
+<!--  <xsl:template match="subject[geographic[matches(normalize-space(.), 'Sevierville (Tenn.)')
+    or matches(lower-case(.), 'sevierville (tenn.)')
     or matches(lower-case(.), 'pittman center (tenn.)')
     or matches(lower-case(.), 'gatlinburg (tenn.)')
     or matches(lower-case(.), 'dollywood (pigeon forge, tenn.)')]]">
@@ -39,6 +47,6 @@
     <note displayLabel="Browse">
       <xsl:value-of select="'Towns in East TN including Gatlinburg, Pigeon Forge, Sevierville and Pittman Center, TN'"/>
     </note>
-  </xsl:template>
+  </xsl:template>-->
   
 </xsl:stylesheet>
