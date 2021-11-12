@@ -29,24 +29,14 @@
     </xsl:for-each>
   </xsl:template>
   
-  <xsl:template match="subject[geographic[matches(., 'Sevierville (Tenn.)')]]">
+  <xsl:template match="subject[@valueURI='http://id.loc.gov/authorities/names/n82273669']
+    | subject[@valueURI='http://id.loc.gov/authorities/names/n85274941']
+    | subject[@valueURI='http://id.loc.gov/authorities/names/n80040520']
+    | subject[@valueURI='http://id.loc.gov/authorities/subjects/sh2009002915']">
     <xsl:copy>
       <xsl:apply-templates select="@*|node()"/>
     </xsl:copy>
-    <note displayLabel="Weird Stuff"><xsl:sequence select="'what the heck'"/></note>
+    <note displayLabel="Browse"><xsl:value-of select="'Towns in East TN including Gatlinburg, Pigeon Forge, Sevierville and Pittman Center, TN'"/></note>
   </xsl:template>
-  
-<!--  <xsl:template match="subject[geographic[matches(normalize-space(.), 'Sevierville (Tenn.)')
-    or matches(lower-case(.), 'sevierville (tenn.)')
-    or matches(lower-case(.), 'pittman center (tenn.)')
-    or matches(lower-case(.), 'gatlinburg (tenn.)')
-    or matches(lower-case(.), 'dollywood (pigeon forge, tenn.)')]]">
-    <xsl:copy>
-      <xsl:apply-templates select="@*|node()"/>
-    </xsl:copy>
-    <note displayLabel="Browse">
-      <xsl:value-of select="'Towns in East TN including Gatlinburg, Pigeon Forge, Sevierville and Pittman Center, TN'"/>
-    </note>
-  </xsl:template>-->
-  
+    
 </xsl:stylesheet>
