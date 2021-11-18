@@ -9,7 +9,7 @@
    <titleInfo>
       <title>Interview with Kathleen and Philippe Dudragne, 2017-02-28</title>
    </titleInfo>
-   <abstract>APPL interview witth Kathleen and Philippe Dudragne, residents of Gatlinburg. They share stories of others' challenges during the fire. The Dudragnes discuss the confusion and panic of their evacuation attempts. They recount the relief efforts provided by the Red Cross and the Rocky Top Center.  This is a representative quote from the interview: "Then we looked to the right and out of the sewage drains it was on fire. So we had fire on the right and fire on the left."
+   <abstract>Interview witth Kathleen and Philippe Dudragne, residents of Gatlinburg. They share stories of others' challenges during the fire. The Dudragnes discuss the confusion and panic of their evacuation attempts. They recount the relief efforts provided by the Red Cross and the Rocky Top Center.  This is a representative quote from the interview: "Then we looked to the right and out of the sewage drains it was on fire. So we had fire on the right and fire on the left."
 </abstract>
    <name>
       <namePart>Dudragne, Kathleen</namePart>
@@ -53,6 +53,7 @@
             valueURI="http://id.loc.gov/authorities/subjects/sh85038299">
       <topic>Disaster relief</topic>
    </subject>
+   <note displayLabel="Browse">Disaster Response &amp; Recovery</note>
    <subject authority="lcsh"
             valueURI="http://id.loc.gov/authorities/subjects/sh85146723">
       <topic>Wildfires</topic>

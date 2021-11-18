@@ -9,7 +9,7 @@
    <titleInfo>
       <title>Interview with Susan Melchor, 2017-03-22</title>
    </titleInfo>
-   <abstract>APPL interview with Susan Melchor, resident of Gatlinburg. Melchor recounts the day of the fire and the uneasiness she felt prior. She discusses the pain of losing her home and the efforts from charity organizations to help rebuild her home. This is a representative quote from the interview: "Your home is your refuge, and I just want to go home."</abstract>
+   <abstract>Interview with Susan Melchor, resident of Gatlinburg. Melchor recounts the day of the fire and the uneasiness she felt prior. She discusses the pain of losing her home and the efforts from charity organizations to help rebuild her home. This is a representative quote from the interview: "Your home is your refuge, and I just want to go home."</abstract>
    <name>
       <namePart>Melchor, Susan</namePart>
       <role>
@@ -37,6 +37,7 @@
    <subject displayLabel="Narrator Class">
       <topic>Individuals/families suffering losses</topic>
    </subject>
+   <note displayLabel="Browse">Individuals Directly Affected by the Fire</note>
    <subject authority="lcsh"
             valueURI="http://id.loc.gov/authorities/subjects/sh85045925">
       <topic>Evacuation of civilians</topic>
@@ -45,6 +46,7 @@
             valueURI="http://id.loc.gov/authorities/subjects/sh85038299">
       <topic>Disaster relief</topic>
    </subject>
+   <note displayLabel="Browse">Disaster Response &amp; Recovery</note>
    <subject authority="lcsh"
             valueURI="http://id.loc.gov/authorities/subjects/sh85146723">
       <topic>Wildfires</topic>

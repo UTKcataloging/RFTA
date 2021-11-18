@@ -9,7 +9,7 @@
    <titleInfo>
       <title>Interview with Virginia Turner, 2017-02-27</title>
    </titleInfo>
-   <abstract>APPL interview with Virginia Turner, resident of Gatlinburg. Turner, being a truck driver, first received reports of the fire while out of town. She recounts the worry about returning home after the disaster and the pain of losing her home. She shares her experiences with different charity organizations aiding survivors of the fire. This is a representative quote from the interview: "I saw a turtle shell and he was right beside of the tree and it bothered me so bad because I was sitting there thinking that little fellow couldn't get away. His whole shell was there, bottom part and top part of his little shell, but he was gone."</abstract>
+   <abstract>Interview with Virginia Turner, resident of Gatlinburg. Turner, being a truck driver, first received reports of the fire while out of town. She recounts the worry about returning home after the disaster and the pain of losing her home. She shares her experiences with different charity organizations aiding survivors of the fire. This is a representative quote from the interview: "I saw a turtle shell and he was right beside of the tree and it bothered me so bad because I was sitting there thinking that little fellow couldn't get away. His whole shell was there, bottom part and top part of his little shell, but he was gone."</abstract>
    <name>
       <namePart>Turner, Virginia</namePart>
       <role>
@@ -40,10 +40,12 @@
    <subject displayLabel="Narrator Class">
       <topic>Individuals/families suffering losses</topic>
    </subject>
+   <note displayLabel="Browse">Individuals Directly Affected by the Fire</note>
    <subject authority="lcsh"
             valueURI="http://id.loc.gov/authorities/subjects/sh85038299">
       <topic>Disaster relief</topic>
    </subject>
+   <note displayLabel="Browse">Disaster Response &amp; Recovery</note>
    <subject authority="lcsh"
             valueURI="http://id.loc.gov/authorities/subjects/sh85146723">
       <topic>Wildfires</topic>

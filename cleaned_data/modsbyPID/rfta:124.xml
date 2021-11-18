@@ -9,7 +9,7 @@
    <titleInfo>
       <title>Interview with Charly McCoig, 2017-02-24</title>
    </titleInfo>
-   <abstract>APPL interview with Charly McCoig, resident of Seviereville, Tennessee. McCoig discusses the day of the fire and her direct attempts at fighting the fire. She also provides information about relief efforts and her time spent volunteering immediately after the fire as well as helping families to sift through ashes to find what personal items survived. This is a representative quote from the interview: "You can buy new clothes, you can buy new furniture, stuff like that, but it's the decades, the generations of memories that we have at places. . .that burned."</abstract>
+   <abstract>Interview with Charly McCoig, resident of Seviereville, Tennessee. McCoig discusses the day of the fire and her direct attempts at fighting the fire. She also provides information about relief efforts and her time spent volunteering immediately after the fire as well as helping families to sift through ashes to find what personal items survived. This is a representative quote from the interview: "You can buy new clothes, you can buy new furniture, stuff like that, but it's the decades, the generations of memories that we have at places. . .that burned."</abstract>
    <name>
       <namePart>McCoig, Charly</namePart>
       <role>
@@ -49,6 +49,7 @@
             valueURI="http://id.loc.gov/authorities/subjects/sh85048486">
       <topic>Fire extinction</topic>
    </subject>
+   <note displayLabel="Browse">Disaster Response &amp; Recovery</note>
    <subject authority="lcsh"
             valueURI="http://id.loc.gov/authorities/subjects/sh85146723">
       <topic>Wildfires</topic>

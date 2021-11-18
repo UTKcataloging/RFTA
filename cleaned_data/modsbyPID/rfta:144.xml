@@ -9,7 +9,7 @@
    <titleInfo>
       <title>Interview with Junior Watson, 2017-02-24</title>
    </titleInfo>
-   <abstract>APPL interview with Arlie "Junior" Watson, manager of the Food City in Gatlinburg. Watson discusses the day of the fire in regards to the efforts by himself and his team to preserve food resources. He also recounts the charity accomplishments by Food City both financially and through food provisions. This is a representative quote from the interview: "We walked outside and looked up and all you could see was just flames up above, back behind the store. It was within 500 yards."</abstract>
+   <abstract>Interview with Arlie "Junior" Watson, manager of the Food City in Gatlinburg. Watson discusses the day of the fire in regards to the efforts by himself and his team to preserve food resources. He also recounts the charity accomplishments by Food City both financially and through food provisions. This is a representative quote from the interview: "We walked outside and looked up and all you could see was just flames up above, back behind the store. It was within 500 yards."</abstract>
    <name>
       <namePart>Watson, Arlie</namePart>
       <role>
@@ -44,6 +44,7 @@
             valueURI="http://id.loc.gov/authorities/subjects/sh85038299">
       <topic>Disaster relief</topic>
    </subject>
+   <note displayLabel="Browse">Disaster Response &amp; Recovery</note>
    <subject authority="lcsh"
             valueURI="http://id.loc.gov/authorities/subjects/sh85022672">
       <topic>Charity</topic>

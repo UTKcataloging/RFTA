@@ -37,6 +37,7 @@
    <subject displayLabel="Narrator Class">
       <topic>Medical personnel</topic>
    </subject>
+   <note displayLabel="Browse">Medical Personnel &amp; First Responders</note>
    <subject authority="lcsh"
             valueURI="http://id.loc.gov/authorities/subjects/sh85042742">
       <topic>Emergency housing</topic>
@@ -45,6 +46,7 @@
             valueURI="http://id.loc.gov/authorities/subjects/sh85083615">
       <topic>Mental health</topic>
    </subject>
+   <note displayLabel="Browse">Disaster Response &amp; Recovery</note>
    <subject authority="lcsh"
             valueURI="http://id.loc.gov/authorities/subjects/sh85147560">
       <topic>Women in charitable work</topic>

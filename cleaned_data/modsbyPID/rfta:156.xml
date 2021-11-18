@@ -9,7 +9,7 @@
    <titleInfo>
       <title>Interview with Sue and Terry Maddox, 2017-04-05</title>
    </titleInfo>
-   <abstract>APPL interview with Sue and Terry Maddox, residents of Gatlinburg. Terry discusses the day of the fire and the sudden realization about how close the fire had come to their house. He recounts his evacuation efforts and his dealings with their insurance. Sue, being outside Gatlinburg, recounts some of these details from her perspective as well as community efforts and charity after the fire. This is a representative quote from the interview: "With all the systems that are in place, you would have thought one of those systems would have come through with some sort of warning."
+   <abstract>Interview with Sue and Terry Maddox, residents of Gatlinburg. Terry discusses the day of the fire and the sudden realization about how close the fire had come to their house. He recounts his evacuation efforts and his dealings with their insurance. Sue, being outside Gatlinburg, recounts some of these details from her perspective as well as community efforts and charity after the fire. This is a representative quote from the interview: "With all the systems that are in place, you would have thought one of those systems would have come through with some sort of warning."
 </abstract>
    <name>
       <namePart>Maddox, Sue</namePart>
@@ -48,6 +48,7 @@
    <subject displayLabel="Narrator Class">
       <topic>Individuals/families suffering losses</topic>
    </subject>
+   <note displayLabel="Browse">Individuals Directly Affected by the Fire</note>
    <subject authority="lcsh"
             valueURI="http://id.loc.gov/authorities/subjects/sh85045925">
       <topic>Evacuation of civilians</topic>
@@ -56,6 +57,7 @@
             valueURI="http://id.loc.gov/authorities/subjects/sh85038299">
       <topic>Disaster relief</topic>
    </subject>
+   <note displayLabel="Browse">Disaster Response &amp; Recovery</note>
    <subject authority="lcsh"
             valueURI="http://id.loc.gov/authorities/subjects/sh85146723">
       <topic>Wildfires</topic>

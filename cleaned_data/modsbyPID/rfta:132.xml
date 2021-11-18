@@ -9,7 +9,7 @@
    <titleInfo>
       <title>Interview with Fran Day, 2017-03-31</title>
    </titleInfo>
-   <abstract>APPL interview with Fran Day, staff at the Arrowmont School of Arts and Crafts. Day recounts the day of the fire and her evacuation from her home. She also discusses some events surrounding the Arrowmont Schoold during the disaster and time following. This is a representative quote from the interview: "Through December 23rd we would offer lunches at Arrowmont, free of charge to anybody who wanted to come and have luch. So every day we had about 100 people.</abstract>
+   <abstract>Interview with Fran Day, staff at the Arrowmont School of Arts and Crafts. Day recounts the day of the fire and her evacuation from her home. She also discusses some events surrounding the Arrowmont Schoold during the disaster and time following. This is a representative quote from the interview: "Through December 23rd we would offer lunches at Arrowmont, free of charge to anybody who wanted to come and have luch. So every day we had about 100 people."</abstract>
    <name>
       <namePart>Day, Frances</namePart>
       <role>
@@ -48,6 +48,7 @@
             valueURI="http://id.loc.gov/authorities/subjects/sh85038299">
       <topic>Disaster relief</topic>
    </subject>
+   <note displayLabel="Browse">Disaster Response &amp; Recovery</note>
    <subject authority="lcsh"
             valueURI="http://id.loc.gov/authorities/subjects/sh85146723">
       <topic>Wildfires</topic>

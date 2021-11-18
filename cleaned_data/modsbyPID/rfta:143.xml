@@ -9,7 +9,7 @@
    <titleInfo>
       <title>Interview with Jottie and Marie Hand, 2017-02-08</title>
    </titleInfo>
-   <abstract>APPL interview with Jottie and Marie Hand, residents of Gatlinburg. The Hands discuss the day of the fire and lack of information concerning the emergency. They recount the tragic loss of their home as well as the destructive power of the wildfire. This is a representative quote from the interview: "We had no warning. We even had the tv on channel 9, which is our local station. They never said nothing about high winds coming in."</abstract>
+   <abstract>Interview with Jottie and Marie Hand, residents of Gatlinburg. The Hands discuss the day of the fire and lack of information concerning the emergency. They recount the tragic loss of their home as well as the destructive power of the wildfire. This is a representative quote from the interview: "We had no warning. We even had the tv on channel 9, which is our local station. They never said nothing about high winds coming in."</abstract>
    <name>
       <namePart>Hand, Jottie</namePart>
       <role>
@@ -55,6 +55,7 @@
    <subject displayLabel="Narrator Class">
       <topic>Individuals/families suffering losses</topic>
    </subject>
+   <note displayLabel="Browse">Individuals Directly Affected by the Fire</note>
    <subject authority="lcsh"
             valueURI="http://id.loc.gov/authorities/subjects/sh85045925">
       <topic>Evacuation of civilians</topic>

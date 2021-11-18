@@ -9,7 +9,7 @@
    <titleInfo>
       <title>Interview with Kathy Gwinn, 2017-04-25</title>
    </titleInfo>
-   <abstract>APPL interview with Kathy Gwinn, resident and tour guide of Gatlinburg. Gwinn recounts the day of the fire when she was directing a group through Gatlinburg. She discusses the fear of talking with her husband while she was unable to return home due to the evacuation. She also shares about the outpouring of generosity from the local community and across the country. This is a representative quote from the interview: "Do you think it's a miracle, in a sense, that when we've not had rain for 5 months, the night we needed it most, it came?"</abstract>
+   <abstract>Interview with Kathy Gwinn, resident and tour guide of Gatlinburg. Gwinn recounts the day of the fire when she was directing a group through Gatlinburg. She discusses the fear of talking with her husband while she was unable to return home due to the evacuation. She also shares about the outpouring of generosity from the local community and across the country. This is a representative quote from the interview: "Do you think it's a miracle, in a sense, that when we've not had rain for 5 months, the night we needed it most, it came?"</abstract>
    <name>
       <namePart>Gwinn, Kathy</namePart>
       <role>
@@ -48,6 +48,7 @@
             valueURI="http://id.loc.gov/authorities/subjects/sh85038299">
       <topic>Disaster relief</topic>
    </subject>
+   <note displayLabel="Browse">Disaster Response &amp; Recovery</note>
    <subject authority="lcsh"
             valueURI="http://id.loc.gov/authorities/subjects/sh85136255">
       <topic>Tourism</topic>

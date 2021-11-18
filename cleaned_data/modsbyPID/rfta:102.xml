@@ -9,7 +9,7 @@
    <titleInfo>
       <title>Interview with Sheila Grooms, 2020-06-19</title>
    </titleInfo>
-   <abstract>Video interview with Sheila Grooms, respiratory therapist with LeConte Medical Center, conducted by Ken Wise. Grooms discusses the assistance she provided to victims of the fire at the medical center and also while volunteering at Rocky Top Sports World. Conducted over Zoom due to the COVID-19 pandemic. This is a representative quote from the interview: We were prepared, we evacuated some of the higher acuity patients just because, one, like I said, smoke irritates the lungs anyway. So we were making sure our people that had very compromised lungs were out. But no, we never had to evacuate the hospital.
+   <abstract>Interview with Sheila Grooms, respiratory therapist with LeConte Medical Center, conducted by Ken Wise. Grooms discusses the assistance she provided to victims of the fire at the medical center and also while volunteering at Rocky Top Sports World. Conducted over Zoom due to the COVID-19 pandemic. This is a representative quote from the interview: We were prepared, we evacuated some of the higher acuity patients just because, one, like I said, smoke irritates the lungs anyway. So we were making sure our people that had very compromised lungs were out. But no, we never had to evacuate the hospital.
 </abstract>
    <name>
       <namePart>Grooms, Sheila</namePart>
@@ -42,6 +42,7 @@
    <subject displayLabel="Narrator Class">
       <topic>Medical personnel</topic>
    </subject>
+   <note displayLabel="Browse">Medical Personnel &amp; First Responders</note>
    <subject authority="lcsh"
             valueURI="http://id.loc.gov/authorities/subjects/sh85113214">
       <topic>Respiratory therapists</topic>
@@ -50,6 +51,7 @@
             valueURI="http://id.loc.gov/authorities/subjects/sh85038299">
       <topic>Disaster relief</topic>
    </subject>
+   <note displayLabel="Browse">Disaster Response &amp; Recovery</note>
    <subject authority="lcsh"
             valueURI="http://id.loc.gov/authorities/subjects/sh2020008759">
       <topic>COVID-19 Pandemic, 2020-</topic>

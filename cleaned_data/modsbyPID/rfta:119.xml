@@ -9,7 +9,7 @@
    <titleInfo>
       <title>Interview with Ann Phillips, 2017-01-27</title>
    </titleInfo>
-   <abstract>APPL interview with Ann Phillips, resident of Windy Oaks in Gatlinburg. Phillips reads a prepared account of her experiences and those of friends. After, she goes into greater depth about the events that friends Sally and Mike West went through. The audio cuts out before the interview concludes. This is a representative quote from the interview: "From now on my life in Gatlinburg will be before the fire and after the fire."</abstract>
+   <abstract>Interview with Ann Phillips, resident of Windy Oaks in Gatlinburg. Phillips reads a prepared account of her experiences and those of friends. After, she goes into greater depth about the events that friends Sally and Mike West went through. The audio cuts out before the interview concludes. This is a representative quote from the interview: "From now on my life in Gatlinburg will be before the fire and after the fire."</abstract>
    <name>
       <namePart>Phillips, Ann</namePart>
       <role>
@@ -48,6 +48,7 @@
    <subject displayLabel="Narrator Class">
       <topic>Individuals/families suffering losses</topic>
    </subject>
+   <note displayLabel="Browse">Individuals Directly Affected by the Fire</note>
    <subject authority="lcsh"
             valueURI="http://id.loc.gov/authorities/subjects/sh85045925">
       <topic>Evacuation of civilians</topic>

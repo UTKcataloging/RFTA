@@ -9,7 +9,7 @@
    <titleInfo>
       <title>Interview with Connie and Ron Miller, 2017-03-24</title>
    </titleInfo>
-   <abstract>APPL interview with Connie and Ron Miller, part-time residents of Gatlinburg. The Millers discuss the day leading up to the fire and their evacuation. They go into detail about the chaotic nature of navigating the roads during the ordeal and the difficulty in obtaining any information concerning the disaster.  This is a representative quote from the interview: "We get down to the parkway and it's abandoned, everybody's gone. And from what I hear on television and other sources, they told everybody at 2 o'clock to get out."</abstract>
+   <abstract>Interview with Connie and Ron Miller, part-time residents of Gatlinburg. The Millers discuss the day leading up to the fire and their evacuation. They go into detail about the chaotic nature of navigating the roads during the ordeal and the difficulty in obtaining any information concerning the disaster.  This is a representative quote from the interview: "We get down to the parkway and it's abandoned, everybody's gone. And from what I hear on television and other sources, they told everybody at 2 o'clock to get out."</abstract>
    <name>
       <namePart>Miller, Connie</namePart>
       <role>
@@ -55,6 +55,7 @@
    <subject displayLabel="Narrator Class">
       <topic>Individuals/families suffering losses</topic>
    </subject>
+   <note displayLabel="Browse">Individuals Directly Affected by the Fire</note>
    <subject authority="lcsh"
             valueURI="http://id.loc.gov/authorities/subjects/sh85045925">
       <topic>Evacuation of civilians</topic>

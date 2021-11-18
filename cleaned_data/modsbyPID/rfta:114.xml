@@ -9,7 +9,7 @@
    <titleInfo>
       <title>Interview with Mary Anne Hitt, 2020-09-24</title>
    </titleInfo>
-   <abstract>Video interview with Mary Anne Hitt, with the Sierra Club, conducted by Casey Kaufman. Hitt recounts the events of the fire as a concerned observer outside of the city due to her parents living in Gatlinburg. She also discusses how these fires are evidence of climate change and the work that she does confronting this global challenge. Conducted over Zoom due to the COVID-19 pandemic. This is a representative quote from the interview: Living in Appalachia, [climate change] had never felt personal to me, and it was a life changing experience because I realize there's not a place that is going to be safe from climate change and we're not safe from it now. It's not just a problem for our grandchildren, it's a problem for us today and it's a problem for my child today.</abstract>
+   <abstract>Interview with Mary Anne Hitt, with the Sierra Club, conducted by Casey Kaufman. Hitt recounts the events of the fire as a concerned observer outside of the city due to her parents living in Gatlinburg. She also discusses how these fires are evidence of climate change and the work that she does confronting this global challenge. Conducted over Zoom due to the COVID-19 pandemic. This is a representative quote from the interview: Living in Appalachia, [climate change] had never felt personal to me, and it was a life changing experience because I realize there's not a place that is going to be safe from climate change and we're not safe from it now. It's not just a problem for our grandchildren, it's a problem for us today and it's a problem for my child today.</abstract>
    <name>
       <namePart>Hitt, Mary Anne</namePart>
       <role>
@@ -40,10 +40,12 @@
    <subject displayLabel="Narrator Class">
       <topic>Environmentalists</topic>
    </subject>
+   <note displayLabel="Browse">Meterologists &amp; Environmentalists</note>
    <subject authority="lcsh"
             valueURI="http://id.loc.gov/authorities/subjects/sh85027037">
       <topic>Climatic changes</topic>
    </subject>
+   <note displayLabel="Browse">Ecology</note>
    <subject authority="lcsh"
             valueURI="http://id.loc.gov/authorities/subjects/sh85048479">
       <topic>Fire ecology</topic>

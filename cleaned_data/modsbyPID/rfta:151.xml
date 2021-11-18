@@ -9,7 +9,7 @@
    <titleInfo>
       <title>Interview with Mary Louise Hunt, 2017-01-25</title>
    </titleInfo>
-   <abstract>APPL interview with Mary Louise Hunt, resident of Gatlinburg. Hunt recounts the day of the fire and being forced to evacuate with no immediate warning. She discusses the services provided at the Rocky Top Community Center. This is a representative quote from the interview: "The days leading up to the fire, the sky was yellowish. It was weird looking. Then the day of the fire, it turned orange in the afternoon."</abstract>
+   <abstract>Interview with Mary Louise Hunt, resident of Gatlinburg. Hunt recounts the day of the fire and being forced to evacuate with no immediate warning. She discusses the services provided at the Rocky Top Community Center. This is a representative quote from the interview: "The days leading up to the fire, the sky was yellowish. It was weird looking. Then the day of the fire, it turned orange in the afternoon."</abstract>
    <name>
       <namePart>Hunt, Mary Louise</namePart>
       <role>
@@ -53,6 +53,7 @@
             valueURI="http://id.loc.gov/authorities/subjects/sh85038299">
       <topic>Disaster relief</topic>
    </subject>
+   <note displayLabel="Browse">Disaster Response &amp; Recovery</note>
    <subject authority="lcsh"
             valueURI="http://id.loc.gov/authorities/subjects/sh85146723">
       <topic>Wildfires</topic>

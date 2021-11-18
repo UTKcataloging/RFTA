@@ -9,7 +9,7 @@
    <titleInfo>
       <title>Interview with Jessica Moerman, 2020-06-12</title>
    </titleInfo>
-   <abstract>Video interview with Dr. Jessica Moerman conducted by Casey Kaufman. Moerman discusses the loss of her family cabin in Gatlinburg, and then outlines the effects of climate change that are impacting the community and leading to these disasters. Conducted over Zoom due to the COVID-19 pandemic.  This is a representative quote from the interview: This is what I love about climate solutions is they really are benefit multipliers. So not only by looking at renewable energy sources, we're not only fighting reducing the amount of heat trapping gases that go into the atmosphere that fuel this extreme weather. We're also reducing pollution right there in our local communities because those same fossil fuel ources also put out tremendous amounts of pollution, soot, that damages our lungs, gives asthma, heart disease.</abstract>
+   <abstract>Interview with Dr. Jessica Moerman conducted by Casey Kaufman. Moerman discusses the loss of her family cabin in Gatlinburg, and then outlines the effects of climate change that are impacting the community and leading to these disasters. Conducted over Zoom due to the COVID-19 pandemic.  This is a representative quote from the interview: This is what I love about climate solutions is they really are benefit multipliers. So not only by looking at renewable energy sources, we're not only fighting reducing the amount of heat trapping gases that go into the atmosphere that fuel this extreme weather. We're also reducing pollution right there in our local communities because those same fossil fuel ources also put out tremendous amounts of pollution, soot, that damages our lungs, gives asthma, heart disease.</abstract>
    <name>
       <namePart>Moerman, Jessica</namePart>
       <role>
@@ -40,10 +40,12 @@
    <subject displayLabel="Narrator Class">
       <topic>Meteorologists</topic>
    </subject>
+   <note displayLabel="Browse">Meterologists &amp; Environmentalists</note>
    <subject authority="lcsh"
             valueURI="http://id.loc.gov/authorities/subjects/sh85027037">
       <topic>Climatic changes</topic>
    </subject>
+   <note displayLabel="Browse">Ecology</note>
    <subject authority="lcsh"
             valueURI="http://id.loc.gov/authorities/subjects/sh85146723">
       <topic>Wildfires</topic>

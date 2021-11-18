@@ -9,7 +9,7 @@
    <titleInfo>
       <title>Interview with Jane Morris, 2017-03-29</title>
    </titleInfo>
-   <abstract>APPL interview with Jane Morris, resident of Gatlinburg. Morris recounts the day of the fire and the sudden evacuation of her home. She discusses the pains of losing her home and the struggles that accompany deciding to rebuild and being president of a condominium association. This is a representative quote from the interview: "You kept waiting to hear the evacuation sirens that I had grown up hearing here."</abstract>
+   <abstract>Interview with Jane Morris, resident of Gatlinburg. Morris recounts the day of the fire and the sudden evacuation of her home. She discusses the pains of losing her home and the struggles that accompany deciding to rebuild and being president of a condominium association. This is a representative quote from the interview: "You kept waiting to hear the evacuation sirens that I had grown up hearing here."</abstract>
    <name>
       <namePart>Morris, Jane</namePart>
       <role>
@@ -40,6 +40,7 @@
    <subject displayLabel="Narrator Class">
       <topic>Individuals/families suffering losses</topic>
    </subject>
+   <note displayLabel="Browse">Individuals Directly Affected by the Fire</note>
    <subject authority="lcsh"
             valueURI="http://id.loc.gov/authorities/subjects/sh85045925">
       <topic>Evacuation of civilians</topic>

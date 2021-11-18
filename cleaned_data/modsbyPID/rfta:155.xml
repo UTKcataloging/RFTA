@@ -9,8 +9,7 @@
    <titleInfo>
       <title>Interview with Ruth and Paul Wellborn, 2017-02-09</title>
    </titleInfo>
-   <abstract>APPL interview with Paul and Ruth Wellborn, owner of Ely's Mill in Gatlinburg.
- Paul tells about the day of the fire and his efforts evacuating tourists unfamiliar with the area. He also discusses the night and following day of the fire in Gatlinburg dealing with emergency responders. Ruth recounts her return from Florida after learning of the fire. She discusses some of the damage done to their property and how they were able to aid emergency responders by being a staging area. This is a representative quote from the interview: "There was a house up on the bank totally consumed, fire going a hundred feet in the air."</abstract>
+   <abstract>Interview with Paul and Ruth Wellborn, owner of Ely's Mill in Gatlinburg. Paul tells about the day of the fire and his efforts evacuating tourists unfamiliar with the area. He also discusses the night and following day of the fire in Gatlinburg dealing with emergency responders. Ruth recounts her return from Florida after learning of the fire. She discusses some of the damage done to their property and how they were able to aid emergency responders by being a staging area. This is a representative quote from the interview: "There was a house up on the bank totally consumed, fire going a hundred feet in the air."</abstract>
    <name>
       <namePart>Wellborn, Ruth</namePart>
       <role>
@@ -68,6 +67,7 @@
             valueURI="http://id.loc.gov/authorities/subjects/sh85038299">
       <topic>Disaster relief</topic>
    </subject>
+   <note displayLabel="Browse">Disaster Response &amp; Recovery</note>
    <subject authority="lcsh"
             valueURI="http://id.loc.gov/authorities/subjects/sh85146723">
       <topic>Wildfires</topic>

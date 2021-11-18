@@ -37,6 +37,7 @@
    <subject displayLabel="Narrator Class">
       <topic>Public and government officials</topic>
    </subject>
+   <note displayLabel="Browse">Educators and Public or Government officials or employees</note>
    <subject authority="lcsh"
             valueURI="http://id.loc.gov/authorities/subjects/sh85082436">
       <topic>Mayors</topic>
@@ -45,10 +46,12 @@
             valueURI="http://id.loc.gov/authorities/subjects/sh91000441">
       <topic>Emergency management</topic>
    </subject>
+   <note displayLabel="Browse">Emergency Management</note>
    <subject authority="lcsh"
             valueURI="http://id.loc.gov/authorities/subjects/sh85038299">
       <topic>Disaster relief</topic>
    </subject>
+   <note displayLabel="Browse">Disaster Response &amp; Recovery</note>
    <subject authority="lcsh"
             valueURI="http://id.loc.gov/authorities/subjects/sh85146723">
       <topic>Wildfires</topic>

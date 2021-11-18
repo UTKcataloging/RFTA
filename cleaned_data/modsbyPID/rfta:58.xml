@@ -38,6 +38,7 @@
    <subject displayLabel="Narrator Class">
       <topic>Public and government officials</topic>
    </subject>
+   <note displayLabel="Browse">Educators and Public or Government officials or employees</note>
    <subject authority="lcsh"
             valueURI="http://id.loc.gov/authorities/subjects/sh85045925">
       <topic>Evacuation of civilians</topic>

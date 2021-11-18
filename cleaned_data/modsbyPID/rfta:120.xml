@@ -9,7 +9,7 @@
    <titleInfo>
       <title>Interview with Bill Black, 2017-02-15</title>
    </titleInfo>
-   <abstract>APPL interview with William (Bill) Black, director of Smoky Mountain Resort Ministries of Sevier County, TN. Black recounts the day of the fire and his efforts to evacuate his home. Black also discusses his efforts in the community during and after the fire.  This is a representative quote from the interview: "We're closer together then we've ever been. The fire has set us free to see each other and relate."</abstract>
+   <abstract>Interview with William (Bill) Black, director of Smoky Mountain Resort Ministries of Sevier County, TN. Black recounts the day of the fire and his efforts to evacuate his home. Black also discusses his efforts in the community during and after the fire.  This is a representative quote from the interview: "We're closer together then we've ever been. The fire has set us free to see each other and relate."</abstract>
    <name>
       <namePart>Black, William</namePart>
       <role>
@@ -48,6 +48,7 @@
             valueURI="http://id.loc.gov/authorities/subjects/sh85038299">
       <topic>Disaster relief</topic>
    </subject>
+   <note displayLabel="Browse">Disaster Response &amp; Recovery</note>
    <subject authority="lcsh"
             valueURI="http://id.loc.gov/authorities/subjects/sh85146723">
       <topic>Wildfires</topic>

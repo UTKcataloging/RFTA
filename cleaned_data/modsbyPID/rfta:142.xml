@@ -9,7 +9,7 @@
    <titleInfo>
       <title>Interview with Johnny Baker, 2017-02-14</title>
    </titleInfo>
-   <abstract>APPL interview with Johnny Baker, owner of Ole Smoky Moonshine. Baker discusses his evacuation and help provided to friends during the wildfire. He also recounts the aid provided by the Zac Brown Band in terms of providing meals and entertainment. Baker mentions the effect of the wildfires on the housing market as well. This is a representative quote from the interview: "Even the National Guardsmen, they would come in, and you'd think they'd been accustomed to seeing everything, and they said, 'We have never saw anything like this.'"</abstract>
+   <abstract>Interview with Johnny Baker, owner of Ole Smoky Moonshine. Baker discusses his evacuation and help provided to friends during the wildfire. He also recounts the aid provided by the Zac Brown Band in terms of providing meals and entertainment. Baker mentions the effect of the wildfires on the housing market as well. This is a representative quote from the interview: "Even the National Guardsmen, they would come in, and you'd think they'd been accustomed to seeing everything, and they said, 'We have never saw anything like this.'"</abstract>
    <name>
       <namePart>Baker, Johnny</namePart>
       <role>
@@ -56,6 +56,7 @@
             valueURI="http://id.loc.gov/authorities/subjects/sh85038299">
       <topic>Disaster relief</topic>
    </subject>
+   <note displayLabel="Browse">Disaster Response &amp; Recovery</note>
    <subject authority="lcsh"
             valueURI="http://id.loc.gov/authorities/subjects/sh85146723">
       <topic>Wildfires</topic>

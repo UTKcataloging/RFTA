@@ -9,7 +9,7 @@
    <titleInfo>
       <title>Interview with Tyler Jeffrey, 2020-05-15</title>
    </titleInfo>
-   <abstract>Video interview with Tyler Jeffrey, a meterologist, conducted by Laura Romans. Jeffrey discusses the surrounding conditions that caused the severity of the wildfires, including the drought and high winds at the time. Conducted over Zoom due to the COVID-19 pandemic. This is a representative quote from the interview: This time people were waiting with, you know, with--just prayerfully for this rain to come, and it just didn't. It just took forever.</abstract>
+   <abstract>Interview with Tyler Jeffrey, a meterologist, conducted by Laura Romans. Jeffrey discusses the surrounding conditions that caused the severity of the wildfires, including the drought and high winds at the time. Conducted over Zoom due to the COVID-19 pandemic. This is a representative quote from the interview: This time people were waiting with, you know, with--just prayerfully for this rain to come, and it just didn't. It just took forever.</abstract>
    <name>
       <namePart>Jeffrey, Tyler</namePart>
       <role>
@@ -40,10 +40,12 @@
    <subject displayLabel="Narrator Class">
       <topic>Meteorologists</topic>
    </subject>
+   <note displayLabel="Browse">Meterologists &amp; Environmentalists</note>
    <subject authority="lcsh"
             valueURI="http://id.loc.gov/authorities/subjects/sh85027037">
       <topic>Climatic changes</topic>
    </subject>
+   <note displayLabel="Browse">Ecology</note>
    <subject authority="lcsh"
             valueURI="http://id.loc.gov/authorities/subjects/sh85048479">
       <topic>Fire ecology</topic>

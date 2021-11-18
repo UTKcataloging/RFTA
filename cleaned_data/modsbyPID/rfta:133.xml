@@ -9,7 +9,7 @@
    <titleInfo>
       <title>Interview with Frances Shambaugh, 2017-02-02</title>
    </titleInfo>
-   <abstract>APPL interview with Frances Shambaugh, resident of Gatlinburg. Shambaugh recounts her evacuation efforts on the day of the fire and the relief efforts. She goes into detail about the aid provided by Rocky Top Sports World and the Red Cross during the crisis. This is a representative quote from the interview: "All afternoon I was listening to the radio and the tv at the same time and there was no mention of any problem. All afternoon and until 8 o'clock that night."</abstract>
+   <abstract>Interview with Frances Shambaugh, resident of Gatlinburg. Shambaugh recounts her evacuation efforts on the day of the fire and the relief efforts. She goes into detail about the aid provided by Rocky Top Sports World and the Red Cross during the crisis. This is a representative quote from the interview: "All afternoon I was listening to the radio and the tv at the same time and there was no mention of any problem. All afternoon and until 8 o'clock that night."</abstract>
    <name>
       <namePart>Shambaugh, Frances</namePart>
       <role>
@@ -53,6 +53,7 @@
             valueURI="http://id.loc.gov/authorities/subjects/sh85038299">
       <topic>Disaster relief</topic>
    </subject>
+   <note displayLabel="Browse">Disaster Response &amp; Recovery</note>
    <subject authority="lcsh"
             valueURI="http://id.loc.gov/authorities/subjects/sh85146723">
       <topic>Wildfires</topic>

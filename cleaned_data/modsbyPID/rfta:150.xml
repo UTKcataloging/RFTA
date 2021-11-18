@@ -9,7 +9,7 @@
    <titleInfo>
       <title>Interview with Linda Marrow, 2017-02-14</title>
    </titleInfo>
-   <abstract>APPL interview with Linda Morrow, gallery owner in Gatlinburg. Morrow recounts being awoken by the fire and evacuating on foot through the flames. She discusses the efforts of the emergency responders, volunteers, and local community to provide relief. She tells about losing her home to the wildfire and her experience with her insurance. This is a representative quote from the interview: "People have said about how erractic the burn was. Well, that's because they didn't see what I saw. The wind would pick up big chunks of burning debris and it was just like a fireball, throwing it."</abstract>
+   <abstract>Interview with Linda Morrow, gallery owner in Gatlinburg. Morrow recounts being awoken by the fire and evacuating on foot through the flames. She discusses the efforts of the emergency responders, volunteers, and local community to provide relief. She tells about losing her home to the wildfire and her experience with her insurance. This is a representative quote from the interview: "People have said about how erractic the burn was. Well, that's because they didn't see what I saw. The wind would pick up big chunks of burning debris and it was just like a fireball, throwing it."</abstract>
    <name>
       <namePart>Morrow, Linda</namePart>
       <role>
@@ -37,6 +37,7 @@
    <subject displayLabel="Narrator Class">
       <topic>Individuals/families suffering losses</topic>
    </subject>
+   <note displayLabel="Browse">Individuals Directly Affected by the Fire</note>
    <subject displayLabel="Narrator Class">
       <topic>Business owners and staff</topic>
    </subject>
@@ -48,6 +49,7 @@
             valueURI="http://id.loc.gov/authorities/subjects/sh85038299">
       <topic>Disaster relief</topic>
    </subject>
+   <note displayLabel="Browse">Disaster Response &amp; Recovery</note>
    <subject authority="lcsh"
             valueURI="http://id.loc.gov/authorities/subjects/sh85146723">
       <topic>Wildfires</topic>

@@ -9,7 +9,7 @@
    <titleInfo>
       <title>Interview with Jean and Mike Young, 2017-05-22</title>
    </titleInfo>
-   <abstract>APPL interview with Mike and Jean Young, residents of Gatlinburg. The Youngs discuss the day of the fire and their inability to save any belongings. They recount the feelings of loss for their home. Dealing with the thought of rebuilding, they take inventory of what truly matters and give thanks to the community.
+   <abstract>Interview with Mike and Jean Young, residents of Gatlinburg. The Youngs discuss the day of the fire and their inability to save any belongings. They recount the feelings of loss for their home. Dealing with the thought of rebuilding, they take inventory of what truly matters and give thanks to the community.
  This is a representative quote from the interview: "I've heard so many stories of how some body went back for somebody else; how they knocked on the last door, sometimes to the expense of losing something else they could've gotten for themselves."
 </abstract>
    <name>
@@ -49,6 +49,7 @@
    <subject displayLabel="Narrator Class">
       <topic>Individuals/families suffering losses</topic>
    </subject>
+   <note displayLabel="Browse">Individuals Directly Affected by the Fire</note>
    <subject authority="lcsh"
             valueURI="http://id.loc.gov/authorities/subjects/sh85045925">
       <topic>Evacuation of civilians</topic>

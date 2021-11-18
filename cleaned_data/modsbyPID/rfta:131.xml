@@ -9,7 +9,7 @@
    <titleInfo>
       <title>Interview with Flo and Liz Puhala, 2017-02-18</title>
    </titleInfo>
-   <abstract>APPL interview with Florian and Liz Puhala, business owners in Gatlinburg. The Puhalas discuss the days before the fire and their evacuation hours before their home burned. They also recount the generosity found in the community during the months following the disaster. This is a representative quote from the interview: "Your mind just can't conceive that this is the last time your gonna see [your home]."</abstract>
+   <abstract>Interview with Florian and Liz Puhala, business owners in Gatlinburg. The Puhalas discuss the days before the fire and their evacuation hours before their home burned. They also recount the generosity found in the community during the months following the disaster. This is a representative quote from the interview: "Your mind just can't conceive that this is the last time your gonna see [your home]."</abstract>
    <name>
       <namePart>Puhala, Florian</namePart>
       <role>
@@ -44,6 +44,7 @@
    <subject displayLabel="Narrator Class">
       <topic>Individuals/families suffering losses</topic>
    </subject>
+   <note displayLabel="Browse">Individuals Directly Affected by the Fire</note>
    <subject displayLabel="Narrator Class">
       <topic>Business owners and staff</topic>
    </subject>
@@ -55,6 +56,7 @@
             valueURI="http://id.loc.gov/authorities/subjects/sh85038299">
       <topic>Disaster relief</topic>
    </subject>
+   <note displayLabel="Browse">Disaster Response &amp; Recovery</note>
    <subject authority="lcsh"
             valueURI="http://id.loc.gov/authorities/subjects/sh85146723">
       <topic>Wildfires</topic>

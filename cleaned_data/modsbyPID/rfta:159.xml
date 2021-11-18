@@ -9,7 +9,7 @@
    <titleInfo>
       <title>Interview with Terry and Sarah Benson, 2017-02-07</title>
    </titleInfo>
-   <abstract>APPL interview with Terry and Sarah Benson, residents of Gatlinburg. The Bensons dsicuss the day of the fire in terms of the suddenness of its spreading. They recount the urgency of their evacuation and the confusion amongst the evacuees. They also share the impact the fire had on them and the loss that it caused. This is a representative quote from the interview: "[The fire] was in the river, it was across, down in the river and up both sides. It was unbelievable."
+   <abstract>Interview with Terry and Sarah Benson, residents of Gatlinburg. The Bensons dsicuss the day of the fire in terms of the suddenness of its spreading. They recount the urgency of their evacuation and the confusion amongst the evacuees. They also share the impact the fire had on them and the loss that it caused. This is a representative quote from the interview: "[The fire] was in the river, it was across, down in the river and up both sides. It was unbelievable."
 </abstract>
    <name>
       <namePart>Benson, Terry</namePart>
@@ -56,6 +56,7 @@
    <subject displayLabel="Narrator Class">
       <topic>Individuals/families suffering losses</topic>
    </subject>
+   <note displayLabel="Browse">Individuals Directly Affected by the Fire</note>
    <subject authority="lcsh"
             valueURI="http://id.loc.gov/authorities/subjects/sh85045925">
       <topic>Evacuation of civilians</topic>

@@ -9,7 +9,7 @@
    <titleInfo>
       <title>Interview with Andrea Ludden, 2017-02-06</title>
    </titleInfo>
-   <abstract>APPL interview with Andrea Ludden, administrator of the Salt &amp; Pepper Museum and Gatlinburg resident. Ludden discusses the the time prior to leaving her home, the evacuation experience, and the return to Gatlinburg to assess damages. Ludden recalls the community efforts that brought people together after the Chimney Tops II Wildfires. This is a representative quote from the interview: "After this, I didn't realize how connected we were in the community."</abstract>
+   <abstract>Interview with Andrea Ludden, administrator of the Salt &amp; Pepper Museum and Gatlinburg resident. Ludden discusses the the time prior to leaving her home, the evacuation experience, and the return to Gatlinburg to assess damages. Ludden recalls the community efforts that brought people together after the Chimney Tops II Wildfires. This is a representative quote from the interview: "After this, I didn't realize how connected we were in the community."</abstract>
    <name>
       <namePart>Ludden, Andrea</namePart>
       <role>
@@ -45,6 +45,7 @@
    <subject displayLabel="Narrator Class">
       <topic>Individuals/families suffering losses</topic>
    </subject>
+   <note displayLabel="Browse">Individuals Directly Affected by the Fire</note>
    <subject authority="lcsh"
             valueURI="http://id.loc.gov/authorities/subjects/sh85045925">
       <topic>Evacuation of civilians</topic>

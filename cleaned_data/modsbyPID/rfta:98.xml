@@ -9,7 +9,7 @@
    <titleInfo>
       <title>Interview with Anne Smith, 2020-06-11</title>
    </titleInfo>
-   <abstract>Video interview with Anne Smith, Department of Management and Entrepreneurship with the University of Tennesse, conducted by Ken Wise. Smith reviews the report composed by the National Park Service after the wildfires and the structural challenges faced by organizations in a disaster. Conducted over Zoom due to the COVID-19 pandemic. This is a representative quote from the interview: We always used to see a few rules broken, but the issues are not broken. That time is not the first time these rules have been broken over time. So the worst thing that can happen is somebody is going to come in and they're going to have a whole other slate of rules and all that, and that's not what it needs to have happen. What needs to happen is the learning from it.</abstract>
+   <abstract>Interview with Anne Smith, Department of Management and Entrepreneurship with the University of Tennesse, conducted by Ken Wise. Smith reviews the report composed by the National Park Service after the wildfires and the structural challenges faced by organizations in a disaster. Conducted over Zoom due to the COVID-19 pandemic. This is a representative quote from the interview: We always used to see a few rules broken, but the issues are not broken. That time is not the first time these rules have been broken over time. So the worst thing that can happen is somebody is going to come in and they're going to have a whole other slate of rules and all that, and that's not what it needs to have happen. What needs to happen is the learning from it.</abstract>
    <name authority="naf"
          valueURI="http://id.loc.gov/authorities/names/no2015061384">
       <namePart>Smith, Anne (Anne D.)</namePart>
@@ -46,6 +46,7 @@
             valueURI="http://id.loc.gov/authorities/subjects/sh91000441">
       <topic>Emergency management</topic>
    </subject>
+   <note displayLabel="Browse">Emergency Management</note>
    <subject authority="lcsh"
             valueURI="http://id.loc.gov/authorities/subjects/sh85146723">
       <topic>Wildfires</topic>

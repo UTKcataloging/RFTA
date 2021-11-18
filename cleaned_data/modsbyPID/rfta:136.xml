@@ -9,7 +9,7 @@
    <titleInfo>
       <title>Interview with Ed and Dianne Henson, 2017-06-06</title>
    </titleInfo>
-   <abstract>APPL interview with Ed and Dianne Henson, residents of Gatlinburg. The Hensons recount the night of the fire in which they were trapped on a side road amidst the flames. They also discuss the tragedy of losing their house to the wildfire. This is a representative quote from the interview: "I looked up the mountain and I saw the house full of flames."</abstract>
+   <abstract>Interview with Ed and Dianne Henson, residents of Gatlinburg. The Hensons recount the night of the fire in which they were trapped on a side road amidst the flames. They also discuss the tragedy of losing their house to the wildfire. This is a representative quote from the interview: "I looked up the mountain and I saw the house full of flames."</abstract>
    <name>
       <namePart>Henson, Edward</namePart>
       <role>
@@ -47,6 +47,7 @@
    <subject displayLabel="Narrator Class">
       <topic>Individuals/families suffering losses</topic>
    </subject>
+   <note displayLabel="Browse">Individuals Directly Affected by the Fire</note>
    <subject authority="lcsh"
             valueURI="http://id.loc.gov/authorities/subjects/sh85045925">
       <topic>Evacuation of civilians</topic>

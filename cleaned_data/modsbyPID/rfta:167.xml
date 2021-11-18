@@ -9,7 +9,7 @@
    <titleInfo>
       <title>Interview with Roxana Ungureanu, 2021-03-24</title>
    </titleInfo>
-   <abstract>Video interview with Roxana Ungureanu, resident of Gatlinburg, conducted by Christian David Rivera. Ungureanu discusses her experience during the fire, and shares some of the difficulties faced by the Romanian community in Gatlinburg. She also explains the current challenges presented by COVID-19. This is a representative quote from the interview: She sent me a video, how the fires are around that hotel. Which, the hotel is in town, you know, it's five minutes from my house. I can see it from here, I'm actually looking at it from my house. And then I showed that to my friends like, "hey, guys, watch this." I feel that time for me, everything was a joke. I didn't think it was gonna, you know, be like that until I saw the damage a few days after, when I started crying actually, and realized that everything was so serious.</abstract>
+   <abstract>Interview with Roxana Ungureanu, resident of Gatlinburg, conducted by Christian David Rivera. Ungureanu discusses her experience during the fire, and shares some of the difficulties faced by the Romanian community in Gatlinburg. She also explains the current challenges presented by COVID-19. This is a representative quote from the interview: She sent me a video, how the fires are around that hotel. Which, the hotel is in town, you know, it's five minutes from my house. I can see it from here, I'm actually looking at it from my house. And then I showed that to my friends like, "hey, guys, watch this." I feel that time for me, everything was a joke. I didn't think it was gonna, you know, be like that until I saw the damage a few days after, when I started crying actually, and realized that everything was so serious.</abstract>
    <name>
       <namePart>Ungureanu, Roxana</namePart>
       <role>
@@ -40,10 +40,12 @@
    <subject displayLabel="Narrator Class">
       <topic>Individuals (tourists or locals) directly affected by the fire</topic>
    </subject>
-   <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85064517">
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85064517">
       <topic>Immigrants</topic>
    </subject>
-   <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85115055">
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85115055">
       <topic>Romanians</topic>
    </subject>
    <subject authority="lcsh"

@@ -9,7 +9,7 @@
    <titleInfo>
       <title>Interview with Melisa Miller, 2020-07-21</title>
    </titleInfo>
-   <abstract>Video interview with Melisa Miller, executive vice president and chief operating officer of Appalachian Service Project, conducted by Casey Kaufman. Miller discusses the background of ASP before explaining the role the organization played in the aftermath of the wildfires. She recounts various families that ASP helped both through home rebuilds and ministering. Conducted over Zoom due to the COVID-19 pandemic. This is a representative quote from the interview: Then there were some design elements that we always do regardless of the type of disaster, that are specific to the disaster that happened. So we put many more fire safety measures into the design of the home than what we have in most of our usual installations.</abstract>
+   <abstract>Interview with Melisa Miller, executive vice president and chief operating officer of Appalachian Service Project, conducted by Casey Kaufman. Miller discusses the background of ASP before explaining the role the organization played in the aftermath of the wildfires. She recounts various families that ASP helped both through home rebuilds and ministering. Conducted over Zoom due to the COVID-19 pandemic. This is a representative quote from the interview: Then there were some design elements that we always do regardless of the type of disaster, that are specific to the disaster that happened. So we put many more fire safety measures into the design of the home than what we have in most of our usual installations.</abstract>
    <name>
       <namePart>Miller, Melisa</namePart>
       <role>
@@ -48,6 +48,7 @@
             valueURI="http://id.loc.gov/authorities/subjects/sh85038299">
       <topic>Disaster relief</topic>
    </subject>
+   <note displayLabel="Browse">Disaster Response &amp; Recovery</note>
    <subject authority="lcsh"
             valueURI="http://id.loc.gov/authorities/subjects/sh85147560">
       <topic>Women in charitable work</topic>

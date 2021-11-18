@@ -9,7 +9,7 @@
    <titleInfo>
       <title>Interview with Steve Norman, 2020-06-11</title>
    </titleInfo>
-   <abstract>Video interview with Steve Norman, ecologist with the United States Forest Service, conducted by Ken Wise. Norman discusses the causes of the wildfires and the potential for more fires in the future. Conducted over Zoom due to the COVID-19 pandemic. This is a representative quote from the interview: You've got a whole lot of homes on the way that were not there back in the day of Wiley Oakley. And so the hazard might be the same over the centuries, but the vulnerability, the susceptible assets we have, and therefore the risk, are quite a bit different now than they ever were in the past.</abstract>
+   <abstract>Interview with Steve Norman, ecologist with the United States Forest Service, conducted by Ken Wise. Norman discusses the causes of the wildfires and the potential for more fires in the future. Conducted over Zoom due to the COVID-19 pandemic. This is a representative quote from the interview: You've got a whole lot of homes on the way that were not there back in the day of Wiley Oakley. And so the hazard might be the same over the centuries, but the vulnerability, the susceptible assets we have, and therefore the risk, are quite a bit different now than they ever were in the past.</abstract>
    <name>
       <namePart>Norman, Steve</namePart>
       <role>
@@ -45,6 +45,7 @@
             valueURI="http://id.loc.gov/authorities/subjects/sh85027037">
       <topic>Climatic changes</topic>
    </subject>
+   <note displayLabel="Browse">Ecology</note>
    <subject authority="lcsh"
             valueURI="http://id.loc.gov/authorities/subjects/sh85048479">
       <topic>Fire ecology</topic>

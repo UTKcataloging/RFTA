@@ -9,7 +9,7 @@
    <titleInfo>
       <title>Interview with Brian Papworth, 2017-02-13</title>
    </titleInfo>
-   <abstract>APPL interview with Brian Papworth, business owner in Gatlinburg. Papworth discusses how calm the day of the fire was before the winds picked up and caused the rapid spread of the fire. Papworth also recounts the scene of Gatlinburg in the following days and the efforts of him and his wife at the community center. This is a representative quote from the interview: "There was no emergency type of feeling. There was no dramatic, "Oh my God, we gotta get out of here" situation.</abstract>
+   <abstract>Interview with Brian Papworth, business owner in Gatlinburg. Papworth discusses how calm the day of the fire was before the winds picked up and caused the rapid spread of the fire. Papworth also recounts the scene of Gatlinburg in the following days and the efforts of him and his wife at the community center. This is a representative quote from the interview: "There was no emergency type of feeling. There was no dramatic, "Oh my God, we gotta get out of here" situation.</abstract>
    <name>
       <namePart>Papworth, Brian</namePart>
       <role>
@@ -53,6 +53,7 @@
             valueURI="http://id.loc.gov/authorities/subjects/sh85038299">
       <topic>Disaster relief</topic>
    </subject>
+   <note displayLabel="Browse">Disaster Response &amp; Recovery</note>
    <subject authority="lcsh"
             valueURI="http://id.loc.gov/authorities/subjects/sh85146723">
       <topic>Wildfires</topic>

@@ -9,7 +9,7 @@
    <titleInfo>
       <title>Interview with Ryan DeSear, 2020-08-13</title>
    </titleInfo>
-   <abstract>Video interview with Ryan DeSear, General Manager of Ripley's Aquarium of the Smokies, coducted by Casey Kaufman. DeSear provides a background for the aquarium and Ripley's Entertainment before discussing the wildfires in 2016. He recounts the challenges faced by the aquarium's staff and the aid that was provided by Ripley's. He also discusses the challenges presented by the COVID-19 pandemic. Conducted over Zoom due to the COVID-19 pandemic. This is a representative quote from the interview: We couldn't get good information, there wasn't a lot of good news media as to exactly what was happening. All we knew was that the National Parks was saying that it was way outside on the Chimney Tops, no issues there, the city was going to be fine and all that kind of stuff.</abstract>
+   <abstract>Interview with Ryan DeSear, General Manager of Ripley's Aquarium of the Smokies, coducted by Casey Kaufman. DeSear provides a background for the aquarium and Ripley's Entertainment before discussing the wildfires in 2016. He recounts the challenges faced by the aquarium's staff and the aid that was provided by Ripley's. He also discusses the challenges presented by the COVID-19 pandemic. Conducted over Zoom due to the COVID-19 pandemic. This is a representative quote from the interview: We couldn't get good information, there wasn't a lot of good news media as to exactly what was happening. All we knew was that the National Parks was saying that it was way outside on the Chimney Tops, no issues there, the city was going to be fine and all that kind of stuff.</abstract>
    <name>
       <namePart>DeSear, Ryan</namePart>
       <role>
@@ -48,6 +48,7 @@
             valueURI="http://id.loc.gov/authorities/subjects/sh85038299">
       <topic>Disaster relief</topic>
    </subject>
+   <note displayLabel="Browse">Disaster Response &amp; Recovery</note>
    <subject authority="lcsh"
             valueURI="http://id.loc.gov/authorities/subjects/sh2020008759">
       <topic>COVID-19 Pandemic, 2020-</topic>

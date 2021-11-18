@@ -9,7 +9,7 @@
    <titleInfo>
       <title>Interview with Jane Young, 2017-02-01</title>
    </titleInfo>
-   <abstract>APPL interview with Jayne Young, resident of Gatlinburg. Young recounts the day of the fire and being forced to initially evacuate on foot from her home. She discusses the services offered at Rocky Top Sports World when it was serving as the disaster relief center and the mental and emotional toll she experienced from the wildfire.
+   <abstract>Interview with Jayne Young, resident of Gatlinburg. Young recounts the day of the fire and being forced to initially evacuate on foot from her home. She discusses the services offered at Rocky Top Sports World when it was serving as the disaster relief center and the mental and emotional toll she experienced from the wildfire.
  This is a representative quote from the interview: "Then a little farther down the fire was in the road, in the road itdelf. We all looked at each other and we go, 'We have no choice, if we go through, we go through.'"</abstract>
    <name>
       <namePart>Young, Jayne</namePart>
@@ -46,6 +46,7 @@
             valueURI="http://id.loc.gov/authorities/subjects/sh85038299">
       <topic>Disaster relief</topic>
    </subject>
+   <note displayLabel="Browse">Disaster Response &amp; Recovery</note>
    <subject authority="lcsh"
             valueURI="http://id.loc.gov/authorities/subjects/sh85146723">
       <topic>Wildfires</topic>
