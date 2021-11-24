@@ -124,6 +124,7 @@
          <coordinates>34.00043, -81.00009</coordinates>
       </cartographics>
    </subject>
+   <note displayLabel="Browse">Dollywood, Pigeon Forge, TN</note>
    <language>
       <languageTerm type="text" authority="iso639-2b">Spanish</languageTerm>
    </language>
