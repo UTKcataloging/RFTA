@@ -63,8 +63,11 @@
             valueURI="http://id.loc.gov/authorities/subjects/sh85146723">
       <topic>Wildfires</topic>
    </subject>
-   <subject valueURI="http://id.loc.gov/authorities/subjects/sh2009002915">
-      <geographic>Dollywood (Pigeon Forge, Tenn.)</geographic>
+   <subject authority="geonames" valueURI="http://sws.geonames.org/6948725">
+      <geographic>Dollywood</geographic>
+      <cartographics>
+         <coordinates>35.79422, -83.53551</coordinates>
+      </cartographics>
    </subject>
    <note displayLabel="Browse">Towns in East TN including Gatlinburg, Pigeon Forge, Sevierville and Pittman Center, TN</note>
    <language>
