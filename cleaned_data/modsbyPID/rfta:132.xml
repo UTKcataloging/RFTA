@@ -65,6 +65,12 @@
          <coordinates>35.744143, -83.520302</coordinates>
       </cartographics>
    </subject>
+   <subject authority="geonames" valueURI="http://sws.geonames.org/9918584">
+      <geographic>Arrowmont School of Arts and Crafts</geographic>
+      <cartographics>
+         <coordinates>35.712925, -83.5104784</coordinates>
+      </cartographics>
+   </subject>
    <subject authority="naf"
             valueURI="http://id.loc.gov/authorities/names/no2001080757">
       <name>

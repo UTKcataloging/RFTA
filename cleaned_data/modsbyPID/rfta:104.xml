@@ -58,6 +58,12 @@
          <namePart>Arrowmont School of Arts and Crafts</namePart>
       </name>
    </subject>
+   <subject authority="geonames" valueURI="http://sws.geonames.org/9918584">
+      <geographic>Arrowmont School of Arts and Crafts</geographic>
+      <cartographics>
+         <coordinates>35.712925, -83.5104784</coordinates>
+      </cartographics>
+   </subject>
    <language>
       <languageTerm type="text" authority="iso639-2b">English</languageTerm>
    </language>
