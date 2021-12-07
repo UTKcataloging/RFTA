@@ -78,7 +78,7 @@
                             startTime="00:00:57"
                             endTime="00:01:59">
             <pbcore:pbcoreIdentifier source="local">20200515_Jeffrey_Tyler_Q1</pbcore:pbcoreIdentifier>
-            <pbcore:pbcoreTitle>Can you state your name for us? Can you talk about your history in East Tennessee an dhow long you've lived here?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreTitle>Can you state your name for us? Can you talk about your history in East Tennessee and how long you've lived here?</pbcore:pbcoreTitle>
             <pbcore:pbcoreDescription>Question 1</pbcore:pbcoreDescription>
          </pbcore:pbcorePart>
          <pbcore:pbcorePart partType="Interview Questions"
