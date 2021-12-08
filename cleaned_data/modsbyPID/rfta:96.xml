@@ -9,7 +9,7 @@
    <titleInfo>
       <title>Interview with Brenda Evans, 2020-06-11</title>
    </titleInfo>
-   <abstract>Interview with Brenda Evans, volunteer with Samaritan's Purse, conducted by Casey Kaufman. Evans provides a background on Samaritan's Purse and her time with the organization. She discusses the efforts made by her and her team at Gatlinburg to help families by sifting through the ashes of destroyed homes for any salvageable posessions. Conducted over Zoom due to the COVID-19 pandemic. This is a representative quote from the interview: That's what I think they find so amazing is that the majority of us love what we do, love the Lord and wants them to see that, and bring them some joy in a time when they're miserable.</abstract>
+   <abstract>Interview with Brenda Evans, volunteer with Samaritan's Purse, conducted by Casey Kaufman. Evans provides a background on Samaritan's Purse and her time with the organization. She discusses the efforts made by her and her team at Gatlinburg to help families by sifting through the ashes of destroyed homes for any salvageable posessions. Conducted over Zoom due to the COVID-19 pandemic. This is a representative quote from the interview: "That's what I think they find so amazing is that the majority of us love what we do, love the Lord and wants them to see that, and bring them some joy in a time when they're miserable."</abstract>
    <name>
       <namePart>Evans, Brenda</namePart>
       <role>
@@ -56,6 +56,13 @@
    <subject authority="lcsh"
             valueURI="http://id.loc.gov/authorities/subjects/sh85146723">
       <topic>Wildfires</topic>
+   </subject>
+   <note displayLabel="Browse">Gatlinburg, Sevierville and Pittman Center</note>
+   <subject authority="geonames" valueURI="http://sws.geonames.org/4624443">
+      <geographic>Gatlinburg</geographic>
+      <cartographics>
+         <coordinates>35.71453, -83.51189</coordinates>
+      </cartographics>
    </subject>
    <language>
       <languageTerm type="text" authority="iso639-2b">English</languageTerm>

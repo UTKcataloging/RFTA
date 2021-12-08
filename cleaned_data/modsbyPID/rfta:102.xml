@@ -9,8 +9,7 @@
    <titleInfo>
       <title>Interview with Sheila Grooms, 2020-06-19</title>
    </titleInfo>
-   <abstract>Interview with Sheila Grooms, respiratory therapist with LeConte Medical Center, conducted by Ken Wise. Grooms discusses the assistance she provided to victims of the fire at the medical center and also while volunteering at Rocky Top Sports World. Conducted over Zoom due to the COVID-19 pandemic. This is a representative quote from the interview: We were prepared, we evacuated some of the higher acuity patients just because, one, like I said, smoke irritates the lungs anyway. So we were making sure our people that had very compromised lungs were out. But no, we never had to evacuate the hospital.
-</abstract>
+   <abstract>Interview with Sheila Grooms, respiratory therapist with LeConte Medical Center, conducted by Ken Wise. Grooms discusses the assistance she provided to victims of the fire at the medical center and also while volunteering at Rocky Top Sports World. Conducted over Zoom due to the COVID-19 pandemic. This is a representative quote from the interview: "We were prepared, we evacuated some of the higher acuity patients just because, one, like I said, smoke irritates the lungs anyway. So we were making sure our people that had very compromised lungs were out. But no, we never had to evacuate the hospital."</abstract>
    <name>
       <namePart>Grooms, Sheila</namePart>
       <role>
@@ -60,6 +59,13 @@
             valueURI="http://id.loc.gov/authorities/subjects/sh85146723">
       <topic>Wildfires</topic>
    </subject>
+   <note displayLabel="Browse">Gatlinburg, Sevierville and Pittman Center</note>
+   <subject authority="geonames" valueURI="http://sws.geonames.org/4656585">
+      <geographic>Sevierville</geographic>
+      <cartographics>
+         <coordinates>35.86815, -83.56184</coordinates>
+      </cartographics>
+   </subject>
    <language>
       <languageTerm type="text" authority="iso639-2b">English</languageTerm>
    </language>
@@ -99,7 +105,7 @@
                             startTime="00:01:24"
                             endTime="00:02:21">
             <pbcore:pbcoreIdentifier source="local">20200619_Grooms_Sheila_Q3</pbcore:pbcoreIdentifier>
-            <pbcore:pbcoreTitle>What do you do at the LaConte Medical Center?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreTitle>What do you do at the LeConte Medical Center?</pbcore:pbcoreTitle>
             <pbcore:pbcoreDescription>Question 3</pbcore:pbcoreDescription>
          </pbcore:pbcorePart>
          <pbcore:pbcorePart partType="Interview Questions"

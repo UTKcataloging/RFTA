@@ -9,7 +9,7 @@
    <titleInfo>
       <title>Interview with Christian David Rivera, 2021-02-03</title>
    </titleInfo>
-   <abstract>Interview with Christian David Rivera, member of the Rising from the Ashes team, conducted by Casey Kaufman. Rivera shares his family experiences of the wildfires, including his father who was unable to leave work for three days following the fires. He also discusses the difficulties faced by the Latinx community in Gatlinburg following the wildfires. This is a representative quote from the interview: The Hispanic community in particular was not just freely going out and asking for help, unless it was given to them. But eventually, I think the community realized what was happening, and so I did notice on social media, such as Facebook, there would be a few places that were giving out help, sending out messages saying, you know, come get help. We're not gonna ask for I.D. or documentation or any of that.</abstract>
+   <abstract>Interview with Christian David Rivera, member of the Rising from the Ashes team, conducted by Casey Kaufman. Rivera shares his family experiences of the wildfires, including his father who was unable to leave work for three days following the fires. He also discusses the difficulties faced by the Latinx community in Gatlinburg following the wildfires. This is a representative quote from the interview: "The Hispanic community in particular was not just freely going out and asking for help, unless it was given to them. But eventually, I think the community realized what was happening, and so I did notice on social media, such as Facebook, there would be a few places that were giving out help, sending out messages saying, you know, come get help. We're not gonna ask for I.D. or documentation or any of that."</abstract>
    <name>
       <namePart>Rivera, Christian David</namePart>
       <role>
@@ -47,6 +47,13 @@
    <subject authority="lcsh"
             valueURI="http://id.loc.gov/authorities/subjects/sh85146723">
       <topic>Wildfires</topic>
+   </subject>
+   <note displayLabel="Browse">Gatlinburg, Sevierville and Pittman Center</note>
+   <subject authority="geonames" valueURI="http://sws.geonames.org/4624443">
+      <geographic>Gatlinburg</geographic>
+      <cartographics>
+         <coordinates>35.71453, -83.51189</coordinates>
+      </cartographics>
    </subject>
    <language>
       <languageTerm type="text" authority="iso639-2b">English</languageTerm>

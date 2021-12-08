@@ -71,6 +71,13 @@
          <coordinates>35.712925, -83.5104784</coordinates>
       </cartographics>
    </subject>
+   <note displayLabel="Browse">Gatlinburg, Sevierville and Pittman Center</note>
+   <subject authority="geonames" valueURI="http://sws.geonames.org/4624443">
+      <geographic>Gatlinburg</geographic>
+      <cartographics>
+         <coordinates>35.71453, -83.51189</coordinates>
+      </cartographics>
+   </subject>
    <subject authority="naf"
             valueURI="http://id.loc.gov/authorities/names/no2001080757">
       <name>

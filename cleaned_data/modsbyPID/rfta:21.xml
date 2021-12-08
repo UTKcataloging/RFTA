@@ -54,7 +54,12 @@
       </cartographics>
    </subject>
    <note displayLabel="Browse">Gatlinburg, Sevierville and Pittman Center</note>
-   <note displayLabel="Browse">Great Smoky Mountains National Park</note>
+   <subject  authority="geonames" valueURI="http://sws.geonames.org/4626068">
+      <geographic>Great Smoky Mountains National Park</geographic>
+      <cartographics>
+         <coordinates>35.60065, -83.50877</coordinates>
+      </cartographics>
+   </subject>
    <subject authority="geonames" valueURI="http://sws.geonames.org/4482056">
       <geographic>Newfound Gap</geographic>
       <cartographics>

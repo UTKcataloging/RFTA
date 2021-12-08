@@ -9,7 +9,7 @@
    <titleInfo>
       <title>Interview with Jeff Rouse, 2020-06-12</title>
    </titleInfo>
-   <abstract>Interview with Jeff Rouse, volunteer with Samaritan's Purse, conducted by Casey Kaufman. Rouse discusses his background with Samaritan's Purse before detailing the efforts of the organization in Gatlinburg after the wildfires. Conducted over Zoom due to the COVID-19 pandemic. This is a representative quote from the interview: All of a sudden, one of the team members found this airplane, and it was just like finding a long lost piece of gold or something. It was just amazing that they were so excited because that was some memory of their dad.</abstract>
+   <abstract>Interview with Jeff Rouse, volunteer with Samaritan's Purse, conducted by Casey Kaufman. Rouse discusses his background with Samaritan's Purse before detailing the efforts of the organization in Gatlinburg after the wildfires. Conducted over Zoom due to the COVID-19 pandemic. This is a representative quote from the interview: "All of a sudden, one of the team members found this airplane, and it was just like finding a long lost piece of gold or something. It was just amazing that they were so excited because that was some memory of their dad."</abstract>
    <name>
       <namePart>Rouse, Jeff</namePart>
       <role>
@@ -52,6 +52,13 @@
    <subject authority="lcsh"
             valueURI="http://id.loc.gov/authorities/subjects/sh85146723">
       <topic>Wildfires</topic>
+   </subject>
+   <note displayLabel="Browse">Gatlinburg, Sevierville and Pittman Center</note>
+   <subject authority="geonames" valueURI="http://sws.geonames.org/4624443">
+      <geographic>Gatlinburg</geographic>
+      <cartographics>
+         <coordinates>35.71453, -83.51189</coordinates>
+      </cartographics>
    </subject>
    <language>
       <languageTerm type="text" authority="iso639-2b">English</languageTerm>

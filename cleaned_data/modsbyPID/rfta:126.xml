@@ -64,6 +64,20 @@
             valueURI="http://id.loc.gov/authorities/subjects/sh85146723">
       <topic>Wildfires</topic>
    </subject>
+   <note displayLabel="Browse">Gatlinburg, Sevierville and Pittman Center</note>
+   <subject authority="geonames" valueURI="http://sws.geonames.org/4624443">
+      <geographic>Gatlinburg</geographic>
+      <cartographics>
+         <coordinates>35.71453, -83.51189</coordinates>
+      </cartographics>
+   </subject>
+   <note displayLabel="Browse">Dollywood and Pigeon Forge</note>
+   <subject authority="geonames" valueURI="http://sws.geonames.org/4649251">
+      <geographic>Pigeon Forge</geographic>
+      <cartographics>
+         <coordinates>35.78842, -83.55433</coordinates>
+      </cartographics>
+   </subject>
    <subject authority="geonames" valueURI="http://sws.geonames.org/7248040">
       <geographic>Pigeon Forge Community Center</geographic>
       <cartographics>

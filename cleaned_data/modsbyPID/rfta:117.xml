@@ -9,7 +9,7 @@
    <titleInfo>
       <title>Interview with Charlie Cole, 2020-10-26</title>
    </titleInfo>
-   <abstract>Interview with Charlie Cole, fire chief fo the city of Gatlinburg. Cole discusses the time leading up to the fire along with the conditions that led to so much devastation. He also recounts the night of the wildfires in terms of the fire department's logistics and operations to combat the disaster. This is a representative quote from the interview: We switched to an evacuation rescue mode to where the police and the fire, all the first responders, all the additional resources switched over to an evacuation and rescue mode. We actually, the numbers say, that we evacuated 14,000, approximately, people in Gatlinburg surrounding area of the county and Gatlinburg area that night.</abstract>
+   <abstract>Interview with Charlie Cole, fire chief fo the city of Gatlinburg. Cole discusses the time leading up to the fire along with the conditions that led to so much devastation. He also recounts the night of the wildfires in terms of the fire department's logistics and operations to combat the disaster. This is a representative quote from the interview: "We switched to an evacuation rescue mode to where the police and the fire, all the first responders, all the additional resources switched over to an evacuation and rescue mode. We actually, the numbers say, that we evacuated 14,000, approximately, people in Gatlinburg surrounding area of the county and Gatlinburg area that night."</abstract>
    <name>
       <namePart>Cole, Charlie</namePart>
       <role>
@@ -56,6 +56,13 @@
    <subject authority="lcsh"
             valueURI="http://id.loc.gov/authorities/subjects/sh85146723">
       <topic>Wildfires</topic>
+   </subject>
+   <note displayLabel="Browse">Gatlinburg, Sevierville and Pittman Center</note>
+   <subject authority="geonames" valueURI="http://sws.geonames.org/4624443">
+      <geographic>Gatlinburg</geographic>
+      <cartographics>
+         <coordinates>35.71453, -83.51189</coordinates>
+      </cartographics>
    </subject>
    <language>
       <languageTerm type="text" authority="iso639-2b">English</languageTerm>

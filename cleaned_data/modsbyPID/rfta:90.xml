@@ -9,7 +9,7 @@
    <titleInfo>
       <title>Interview with Kelly Johnson, 2020-05-14</title>
    </titleInfo>
-   <abstract>Interview with Kelly Johnson, owner of the Alamo and other restaurants in Gatlinburg. Johnson discusses the events of the fire as someone outside of Gatlinburg at the time, and the tragedy of losing her restaurant. She also discusses the recovery efforts after the fire. Conducted over Zoom due to the COVID-19 pandemic. This is a representative quote from the interview: You have that weird hope, where like, maybe it was the smoke coming from down the mountain, maybe--but you sort of know in your heart, okay, the building's on fire. But I knew the sprinklers were going off, so of course at the same time you're like, okay, maybe it's a small fire or maybe thesprinklers will put it out, and you sort of cling to hope, which is ridiculous, but you don't really have any other information.</abstract>
+   <abstract>Interview with Kelly Johnson, owner of the Alamo and other restaurants in Gatlinburg. Johnson discusses the events of the fire as someone outside of Gatlinburg at the time, and the tragedy of losing her restaurant. She also discusses the recovery efforts after the fire. Conducted over Zoom due to the COVID-19 pandemic. This is a representative quote from the interview: "You have that weird hope, where like, maybe it was the smoke coming from down the mountain, maybe--but you sort of know in your heart, okay, the building's on fire. But I knew the sprinklers were going off, so of course at the same time you're like, okay, maybe it's a small fire or maybe thesprinklers will put it out, and you sort of cling to hope, which is ridiculous, but you don't really have any other information."</abstract>
    <name>
       <namePart>Johnson, Kelly</namePart>
       <role>
@@ -29,9 +29,6 @@
       <place>
          <placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
       </place>
-      <place>
-         <placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
-      </place>
    </originInfo>
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</form>
@@ -47,6 +44,13 @@
    <subject authority="lcsh"
             valueURI="http://id.loc.gov/authorities/subjects/sh85146723">
       <topic>Wildfires</topic>
+   </subject>
+   <note displayLabel="Browse">Gatlinburg, Sevierville and Pittman Center</note>
+   <subject authority="geonames" valueURI="http://sws.geonames.org/4624443">
+      <geographic>Gatlinburg</geographic>
+      <cartographics>
+         <coordinates>35.71453, -83.51189</coordinates>
+      </cartographics>
    </subject>
    <language>
       <languageTerm type="text" authority="iso639-2b">English</languageTerm>

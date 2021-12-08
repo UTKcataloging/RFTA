@@ -57,7 +57,6 @@
          <coordinates>35.60065, -83.50877</coordinates>
       </cartographics>
    </subject>
-   <note displayLabel="Browse">Great Smoky Mountains National Park</note>
    <subject authority="geonames" valueURI="http://sws.geonames.org/4624443">
       <geographic>Gatlinburg</geographic>
       <cartographics>

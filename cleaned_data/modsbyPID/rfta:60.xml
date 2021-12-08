@@ -56,11 +56,23 @@
             valueURI="http://id.loc.gov/authorities/subjects/sh85146723">
       <topic>Wildfires</topic>
    </subject>
+   <note displayLabel="Browse">Gatlinburg, Sevierville and Pittman Center</note>
+   <subject authority="geonames" valueURI="http://sws.geonames.org/4624443">
+      <geographic>Gatlinburg</geographic>
+      <cartographics>
+         <coordinates>35.71453, -83.51189</coordinates>
+      </cartographics>
+   </subject>
+   <subject authority="geonames" valueURI="http://sws.geonames.org/4656568">
+      <geographic>Sevier</geographic>
+      <cartographics>
+         <coordinates>35.78466, -83.52418</coordinates>
+      </cartographics>
+   </subject>
    <subject authority="geonames" valueURI="http://sws.geonames.org/8098149">
       <geographic>Gatlinburg Fire Department Station 1 Headquarters</geographic>
       <cartographics>
-         <coordinates> 35.72595, -83.47884
-</coordinates>
+         <coordinates> 35.72595, -83.47884</coordinates>
       </cartographics>
    </subject>
    <language>

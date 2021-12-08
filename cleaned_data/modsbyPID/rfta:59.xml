@@ -56,14 +56,17 @@
             valueURI="http://id.loc.gov/authorities/subjects/sh85146723">
       <topic>Wildfires</topic>
    </subject>
+   <note displayLabel="Browse">Gatlinburg, Sevierville and Pittman Center</note>
+   <subject authority="geonames" valueURI="http://sws.geonames.org/4624443">
+      <geographic>Gatlinburg</geographic>
+      <cartographics>
+         <coordinates>35.71453, -83.51189</coordinates>
+      </cartographics>
+   </subject>
    <subject authority="geonames" valueURI="http://sws.geonames.org/12226267">
       <geographic>Gatlinburg City Hall</geographic>
       <cartographics>
-         <coordinates>35.72575, -83.47957
-                        
-                    
-                    
-                        </coordinates>
+         <coordinates>35.72575, -83.47957</coordinates>
       </cartographics>
    </subject>
    <subject authority="geonames" valueURI="http://sws.geonames.org/4644453">

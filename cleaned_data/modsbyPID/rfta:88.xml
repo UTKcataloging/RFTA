@@ -9,7 +9,7 @@
    <titleInfo>
       <title>Interview with Jeremy Cowart, 2020-04-24</title>
    </titleInfo>
-   <abstract>Interview with Jeremy Cowart, photographer of the "Voices of Gatlinburg" project. Cowart discusses the inpiration for the project and how it is helping the families of the wildfires. Conducted over Zoom due to the COVID-19 pandemic. This is a representative quote from the interview: I was just trying to use my project to get more eyeballs, because more eyeballs helps tell the story. Often in these situations, the news media comes in and does their thing and they leave and so I've tried to go in after that and not only retell the story but do it in a really creative way which is why I used the drones and a mattress to bring different eyeballs.</abstract>
+   <abstract>Interview with Jeremy Cowart, photographer of the "Voices of Gatlinburg" project. Cowart discusses the inpiration for the project and how it is helping the families of the wildfires. Conducted over Zoom due to the COVID-19 pandemic. This is a representative quote from the interview: "I was just trying to use my project to get more eyeballs, because more eyeballs helps tell the story. Often in these situations, the news media comes in and does their thing and they leave and so I've tried to go in after that and not only retell the story but do it in a really creative way which is why I used the drones and a mattress to bring different eyeballs."</abstract>
    <name authority="naf"
          valueURI="http://id.loc.gov/authorities/names/no2010187311">
       <namePart>Cowart, Jeremy</namePart>
@@ -52,6 +52,13 @@
    <subject authority="lcsh"
             valueURI="http://id.loc.gov/authorities/subjects/sh85146723">
       <topic>Wildfires</topic>
+   </subject>
+   <note displayLabel="Browse">Gatlinburg, Sevierville and Pittman Center</note>
+   <subject authority="geonames" valueURI="http://sws.geonames.org/4624443">
+      <geographic>Gatlinburg</geographic>
+      <cartographics>
+         <coordinates>35.71453, -83.51189</coordinates>
+      </cartographics>
    </subject>
    <language>
       <languageTerm type="text" authority="iso639-2b">English</languageTerm>

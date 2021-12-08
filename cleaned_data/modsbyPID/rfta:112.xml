@@ -9,7 +9,7 @@
    <titleInfo>
       <title>Interview with Marcus and Randy Watson, 2020-09-10</title>
    </titleInfo>
-   <abstract>Interview with Marcus and Randy Watson, with the Skylift Park in Gatlinburg, conducted by Casey Kaufman. The Watsons provide a background about the original skylift that was in the city, and discuss its destruction from the fires. They also recount their own evacuation that night from the fires, and the efforts to rebuild and expand the skylift. Conducted over Zoom due to the COVID-19 pandemic. This is a representative quote from the interview: Yes, the attraction itself burned down, but Gatlinburg as a whole, as far as the downtown area was not touched. And the reason for that was because of the great coordination that the many fire departments had.</abstract>
+   <abstract>Interview with Marcus and Randy Watson, with the Skylift Park in Gatlinburg, conducted by Casey Kaufman. The Watsons provide a background about the original skylift that was in the city, and discuss its destruction from the fires. They also recount their own evacuation that night from the fires, and the efforts to rebuild and expand the skylift. Conducted over Zoom due to the COVID-19 pandemic. This is a representative quote from the interview: "Yes, the attraction itself burned down, but Gatlinburg as a whole, as far as the downtown area was not touched. And the reason for that was because of the great coordination that the many fire departments had."</abstract>
    <name>
       <namePart>Watson, Marcus</namePart>
       <role>
@@ -55,6 +55,13 @@
    <subject authority="lcsh"
             valueURI="http://id.loc.gov/authorities/subjects/sh85146723">
       <topic>Wildfires</topic>
+   </subject>
+   <note displayLabel="Browse">Gatlinburg, Sevierville and Pittman Center</note>
+   <subject authority="geonames" valueURI="http://sws.geonames.org/4624443">
+      <geographic>Gatlinburg</geographic>
+      <cartographics>
+         <coordinates>35.71453, -83.51189</coordinates>
+      </cartographics>
    </subject>
    <language>
       <languageTerm type="text" authority="iso639-2b">English</languageTerm>

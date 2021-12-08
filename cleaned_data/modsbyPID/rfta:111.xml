@@ -9,7 +9,7 @@
    <titleInfo>
       <title>Interview with Buddy McLean, 2020-09-10</title>
    </titleInfo>
-   <abstract>Interview with Buddy McLean, owner of Buckberry Lodge in Gatlinburg, conducted by Casey Kaufman. McLean provides a background for the lodge in Gatlinburg before discussing the 2016 wildfires. He recounts the destruction of the lodge as well as the decision to rebuild. He also describes the short and long term effects that the fires had on the community. Conducted over Zoom due to the COVID-19 pandemic. This is a representative quote from the interview: Everything that burned up there, burned straight up, but the mountains are still there and the beauty is still there. And I believe that very much still today.</abstract>
+   <abstract>Interview with Buddy McLean, owner of Buckberry Lodge in Gatlinburg, conducted by Casey Kaufman. McLean provides a background for the lodge in Gatlinburg before discussing the 2016 wildfires. He recounts the destruction of the lodge as well as the decision to rebuild. He also describes the short and long term effects that the fires had on the community. Conducted over Zoom due to the COVID-19 pandemic. This is a representative quote from the interview: "Everything that burned up there, burned straight up, but the mountains are still there and the beauty is still there. And I believe that very much still today."</abstract>
    <name>
       <namePart>McLean, Buddy</namePart>
       <role>
@@ -48,6 +48,20 @@
    <subject authority="lcsh"
             valueURI="http://id.loc.gov/authorities/subjects/sh85146723">
       <topic>Wildfires</topic>
+   </subject>
+   <note displayLabel="Browse">Gatlinburg, Sevierville and Pittman Center</note>
+   <subject authority="geonames" valueURI="http://sws.geonames.org/4624443">
+      <geographic>Gatlinburg</geographic>
+      <cartographics>
+         <coordinates>35.71453, -83.51189</coordinates>
+      </cartographics>
+   </subject>
+   <subject authority="geonames" valueURI="http://sws.geonames.org/12382326">
+      <geographic>
+         The Lodge at Buckberry Creek</geographic>
+      <cartographics>
+         <coordinates>35.71171, -83.53806</coordinates>
+      </cartographics>
    </subject>
    <language>
       <languageTerm type="text" authority="iso639-2b">English</languageTerm>
