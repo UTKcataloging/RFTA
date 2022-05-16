@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="local">20220119_Duarte_Mitsy-Gissela</identifier>
+   <identifier type="pid">rfta:171</identifier>
+   <titleInfo>
+      <title>Interview with Mitsy Gissela Duarte, 2022-01-19</title>
+   </titleInfo>
+   <titleInfo lang="spa">
+      <title>Entrevista con Mitsy Gissela Duarte, 2022-01-19</title>
+   </titleInfo>
+   <abstract>In this interview Mitsy Gissela Duarte, a Honduran immigrant and Gatlinburg resident since 2003, tells us about her experience of awakening to a city full of smoke and fire, fleeing alongside other residents and the deep sadness that ensued with the return to the city.</abstract>
+   <abstract lang="spa">En esta entrevista Mitsy Gissela Duarte, inmigrante Hondureña y residente de Gatlinburg desde el 2003, nos cuenta su experiencia al despertarse en una ciudad llena de humo y incendios, la experiencia de huir junto a otros residentes y la profunda tristeza que se produjo al volver a la ciudad.</abstract>
+   <name>
+      <namePart>Duarte, Mitsy Gissela</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/ive">Interviewee</roleTerm>
+      </role>
+   </name>
+   <name>
+      <namePart>Rivera, Christian David</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/ivr">Interviewer</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated encoding="edtf" keyDate="yes">2022-01-19</dateCreated>
+      <place>
+         <placeTerm valueURI="http://id.loc.gov/authorities/names/n79109786">Knoxville (Tenn.)</placeTerm>
+      </place>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300136900">motion pictures (visual works)</form>
+      <extent>00:14:37</extent>
+   </physicalDescription>
+   <subject displayLabel="Narrator Class">
+      <topic>Individuals (tourists or locals) directly affected by the fire</topic>
+   </subject>
+   <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85064517">
+      <topic>Immigrants</topic>
+   </subject>
+   <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh93004894">
+      <topic>Hondurans</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh2020008759">
+      <topic>COVID-19 Pandemic, 2020-</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85146723">
+      <topic>Wildfires</topic>
+   </subject>
+   <subject authority="geonames" valueURI="http://sws.geonames.org/3608932">
+      <geographic>Honduras</geographic>
+      <cartographics>
+         <coordinates>15, -86.5</coordinates>
+      </cartographics>
+   </subject>
+   <subject authority="geonames" valueURI="http://sws.geonames.org/4634946">
+      <geographic>Knoxville</geographic>
+      <cartographics>
+         <coordinates>35.96064, -83.92074</coordinates>
+      </cartographics>
+   </subject>
+   <subject authority="geonames" valueURI="http://sws.geonames.org/4619419">
+      <geographic>Dudley Creek</geographic>
+      <cartographics>
+         <coordinates>35.7262, -83.51239</coordinates>
+      </cartographics>
+   </subject>
+   <subject authority="geonames" valueURI="http://sws.geonames.org/4649251">
+      <geographic>Pigeon Forge</geographic>
+      <cartographics>
+         <coordinates>35.78842, -83.55433</coordinates>
+      </cartographics>
+   </subject>
+   <subject authority="geonames" valueURI="http://sws.geonames.org/4656585">
+      <geographic>Sevierville</geographic>
+      <cartographics>
+         <coordinates>35.86815, -83.56184</coordinates>
+      </cartographics>
+   </subject>
+   <language>
+      <languageTerm type="text" authority="iso639-2b">Spanish</languageTerm>
+   </language>
+   <typeOfResource>moving image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>Rising from the Ashes Oral Histories</title>
+      </titleInfo>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://creativecommons.org/licenses/by/4.0/rdf">Attribution 4.0 International (CC BY 4.0)</accessCondition>
+   <extension xmlns:pbcore="http://www.pbcore.org/PBCore/PBCoreNamespace.html"
+              xsi:schemaLocation="http://www.pbcore.org/PBCore/PBCoreNamespace.html https://raw.githubusercontent.com/WGBH/PBCore_2.1/master/pbcore-2.1.xsd">
+      <pbcore:pbcoreDescriptionDocument>
+         <pbcore:pbcoreIdentifier source="local">20220119_Duarte_Mitsy-Gissela</pbcore:pbcoreIdentifier>
+         <pbcore:pbcoreTitle>Interview with Mitsy Gissela Duarte, 2022-01-19</pbcore:pbcoreTitle>
+         <pbcore:pbcoreDescription>"It was fatal, because seeing so many people crying, they had no where to live. To see that you had been left with nothing after so long of you know, fighting for what you have. And to lose everything, even cars. People were left without their things without a car or even a way to go to work. It was very sad."</pbcore:pbcoreDescription>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:00:54"
+                            endTime="00:01:10">
+            <pbcore:pbcoreIdentifier source="local">20220119_Duarte_Mitsy-Gissela_Q1</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>To begin, we are going to ask that you to introduce yourself by telling us your name, and where you are originally from.</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 1</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Preguntas de entrevista"
+                            startTime="00:00:54"
+                            endTime="00:01:10">
+            <pbcore:pbcoreIdentifier source="local">20220119_Duarte_Mitsy-Gissela_esQ1</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Para empezar, vamos a pedir que se introduzca diciéndonos su nombre, y de dónde es usted originalmente.</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Pregunta 1</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:01:10"
+                            endTime="00:01:32">
+            <pbcore:pbcoreIdentifier source="local">20220119_Duarte_Mitsy-Gissela_Q2</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>How did you get to Gatlinburg, and how long have you been living in the city of Gatlinburg?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 2</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Preguntas de entrevista"
+                            startTime="00:01:10"
+                            endTime="00:01:32">
+            <pbcore:pbcoreIdentifier source="local">20220119_Duarte_Mitsy-Gissela_esQ2</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Y cómo llego usted a Gatlinburg, y cuánto tiempo lleva viviendo en la ciudad de Gatlinburg?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Pregunta 2</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:01:32"
+                            endTime="00:01:56">
+            <pbcore:pbcoreIdentifier source="local">20220119_Duarte_Mitsy-Gissela_Q3</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>And can you tell us a little about your life in Gatlinburg, for example, do you have family in the area, what do work in and how have you found yourself integrated into the community?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 3</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Preguntas de entrevista"
+                            startTime="00:01:32"
+                            endTime="00:01:56">
+            <pbcore:pbcoreIdentifier source="local">20220119_Duarte_Mitsy-Gissela_esQ3</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Y nos puede hablar un poco sobre su vida en Gatlinburg, por ejemplo, tiene familia en el área, en qué trabaja y cómo se ha encontrado usted integrada en la comunidad?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Pregunta 3</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="geographic" startTime="00:02:06" endTime="00:02:09">
+            <pbcore:pbcoreIdentifier source="local">20220119_Duarte_Mitsy-Gissela_G1</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Dudley Creek Road</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Interviewee discusses Dudley Creek Road.</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:01:56"
+                            endTime="00:02:19">
+            <pbcore:pbcoreIdentifier source="local">20220119_Duarte_Mitsy-Gissela_Q4</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>And in what part of the city of Gatlinburg, did you live in before the fires? And where do you live now?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 4</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Preguntas de entrevista"
+                            startTime="00:01:56"
+                            endTime="00:02:19">
+            <pbcore:pbcoreIdentifier source="local">20220119_Duarte_Mitsy-Gissela_esQ4</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Y en qué parte de la ciudad de Gatlinburg, vivía usted antes de los incendios? Y en qué parte vive ahora?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Pregunta 4</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="geographic" startTime="00:03:50" endTime="00:03:53">
+            <pbcore:pbcoreIdentifier source="local">20220119_Duarte_Mitsy-Gissela_G2</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Pigeon Forge</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Interviewee discusses Pigeon Forge.</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:02:19"
+                            endTime="00:04:00">
+            <pbcore:pbcoreIdentifier source="local">20220119_Duarte_Mitsy-Gissela_Q5</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>And, can you tell us a bit about the days before the fires? Or the morning of, before the fires started, you had noticed smoke or had you heard any reports from the city? At what moment did you start to worry?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 5</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Preguntas de entrevista"
+                            startTime="00:02:19"
+                            endTime="00:04:00">
+            <pbcore:pbcoreIdentifier source="local">20220119_Duarte_Mitsy-Gissela_esQ5</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Y, nos puede hablar un poco, sobre los días antes de los incendios? O la mañana verdad, antes de que empezaran los incendios, usted había notado humo o había escuchado algún reporte de la ciudad? En qué momento se empezó a preocupar?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Pregunta 5</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:04:00"
+                            endTime="00:04:27">
+            <pbcore:pbcoreIdentifier source="local">20220119_Duarte_Mitsy-Gissela_Q6</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>And did you notice, other people fighting the fire when you were leaving your apartment or headed to Pigeon Forge? Could you describe, what was it that you saw, when you were on your way out?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 6</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Preguntas de entrevista"
+                            startTime="00:04:00"
+                            endTime="00:04:27">
+            <pbcore:pbcoreIdentifier source="local">20220119_Duarte_Mitsy-Gissela_esQ6</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Y usted notó, a otras personas luchando contra el fuego cuando usted estaba saliendo de su apartamento o iba para Pigeon Forge? Podría describir, qué fue lo que vio usted, cuando iba de salida?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Pregunta 6</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:04:27"
+                            endTime="00:05:02">
+            <pbcore:pbcoreIdentifier source="local">20220119_Duarte_Mitsy-Gissela_Q7</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>And after the evacuation, while you waited, to be let back into Gatlinburg, what was the experience like, of waiting to be allowed back in?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 7</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Preguntas de entrevista"
+                            startTime="00:04:27"
+                            endTime="00:05:02">
+            <pbcore:pbcoreIdentifier source="local">20220119_Duarte_Mitsy-Gissela_esQ7</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Y después de la evacuación, mientras esperaban, que los dejaran entrar de vuelta a Gatlinburg, cuál fue la experiencia, de esperar a que los dejaran entrar?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Pregunta 7</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:05:02"
+                            endTime="00:05:29">
+            <pbcore:pbcoreIdentifier source="local">20220119_Duarte_Mitsy-Gissela_Q8</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>And while you were in Pigeon Forge during the evacuation and they weren't allowing you back in. How did you stay in contact with your family and friends, during that time? Was it through social networks or, how did stay in contact?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 8</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Preguntas de entrevista"
+                            startTime="00:05:02"
+                            endTime="00:05:29">
+            <pbcore:pbcoreIdentifier source="local">20220119_Duarte_Mitsy-Gissela_esQ8</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Y mientras usted estaba en Pigeon Forge durante la evacuación y cuando no los dejaban entrar de vuelta. Cómo se mantuvo usted en contacto con su familia y amigos, durante ese tiempo? Fue por redes sociales o, cómo se mantuvo en contacto?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Pregunta 8</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:05:29"
+                            endTime="00:06:16">
+            <pbcore:pbcoreIdentifier source="local">20220119_Duarte_Mitsy-Gissela_Q9</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Can you describe to us, what the return to Gatlinburg was like after the fires, and seeing your neighbors, your friends, going back to work, to church. What was the experience like of coming back to the community?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 9</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Preguntas de entrevista"
+                            startTime="00:05:29"
+                            endTime="00:06:16">
+            <pbcore:pbcoreIdentifier source="local">20220119_Duarte_Mitsy-Gissela_esQ9</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Nos puede describir, cómo fue el regreso a Gatlinburg, después de los incendios, y ver a sus vecinos, a sus amigos, y volver al trabajo, a la iglesia. Cuál fue la experiencia de volver, a la comunidad?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Pregunta 9</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:06:16"
+                            endTime="00:06:55">
+            <pbcore:pbcoreIdentifier source="local">20220119_Duarte_Mitsy-Gissela_Q10</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>And when you returned to Gatlinburg, to your apartment, your apartment burned down or was it still there?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 10</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Preguntas de entrevista"
+                            startTime="00:06:16"
+                            endTime="00:06:55">
+            <pbcore:pbcoreIdentifier source="local">20220119_Duarte_Mitsy-Gissela_esQ10</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Y cuando usted regresó a Gatlinburg, a su apartamento, su apartamento se quemó o seguía, seguía ahi?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Pregunta 10</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:06:55"
+                            endTime="00:07:32">
+            <pbcore:pbcoreIdentifier source="local">20220119_Duarte_Mitsy-Gissela_Q11</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>And how would you evaluate the rescue and relief efforts, such as first responders, FEMA, volunteers?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 11</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Preguntas de entrevista"
+                            startTime="00:06:55"
+                            endTime="00:07:32">
+            <pbcore:pbcoreIdentifier source="local">20220119_Duarte_Mitsy-Gissela_esQ11</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Y, cómo evaluaría usted los esfuerzos de rescate y ayuda, como los primeros auxilios, FEMA, voluntarios?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Pregunta 11</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:07:32"
+                            endTime="00:08:06">
+            <pbcore:pbcoreIdentifier source="local">20220119_Duarte_Mitsy-Gissela_Q12</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>And emotionally, how did this incident impact you?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 12</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Preguntas de entrevista"
+                            startTime="00:07:32"
+                            endTime="00:08:06">
+            <pbcore:pbcoreIdentifier source="local">20220119_Duarte_Mitsy-Gissela_esQ12</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Y emocionalmente, cómo le impactó a usted este incidente?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Pregunta 12</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:08:06"
+                            endTime="00:08:56">
+            <pbcore:pbcoreIdentifier source="local">20220119_Duarte_Mitsy-Gissela_Q13</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>And how did this incident affect you, financially? Was there an impact?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 13</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Preguntas de entrevista"
+                            startTime="00:08:06"
+                            endTime="00:08:56">
+            <pbcore:pbcoreIdentifier source="local">20220119_Duarte_Mitsy-Gissela_esQ13</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Y cómo le afectó este incidente a usted, económicamente? Hubo algún impacto?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Pregunta 13</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:08:56"
+                            endTime="00:09:49">
+            <pbcore:pbcoreIdentifier source="local">20220119_Duarte_Mitsy-Gissela_Q14</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>And from your point of view, how did the fires, influence community relations? Do you think there was a change in the way that the community, interacted with itself? Neighbors with neighbors, or employers with employees. Did you notice a change?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 14</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Preguntas de entrevista"
+                            startTime="00:08:56"
+                            endTime="00:09:49">
+            <pbcore:pbcoreIdentifier source="local">20220119_Duarte_Mitsy-Gissela_esQ14</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Y desde su punto de vista, cómo influyó el incendio, las relaciones comunitarias? Usted cree que, hubo algún cambio en la manera, de que la comunidad, se tratara en sí misma? Vecinos con vecinos, o empleadores con empleados. Notó algún cambio usted?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Pregunta 14</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:09:49"
+                            endTime="00:10:30">
+            <pbcore:pbcoreIdentifier source="local">20220119_Duarte_Mitsy-Gissela_Q15</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>And what kind of impact do you think this incident had on, specifically, the Hispanic community of Gatlinburg?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 15</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Preguntas de entrevista"
+                            startTime="00:09:49"
+                            endTime="00:10:30">
+            <pbcore:pbcoreIdentifier source="local">20220119_Duarte_Mitsy-Gissela_esQ15</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Y, qué tipo de impacto cree usted que tuvo este incidente, en específicamente, la comunidad Hispana de Gatlinburg?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Pregunta 15</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:10:30"
+                            endTime="00:11:08">
+            <pbcore:pbcoreIdentifier source="local">20220119_Duarte_Mitsy-Gissela_Q16</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>And have you thought or made any plans if in the future an incident like this, happens again?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 16</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Preguntas de entrevista"
+                            startTime="00:10:30"
+                            endTime="00:11:08">
+            <pbcore:pbcoreIdentifier source="local">20220119_Duarte_Mitsy-Gissela_esQ16</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Y ha pensado o hecho algún plan usted si en el futuro algún incidente como éste, vuelve a pasar?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Pregunta 16</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:11:08"
+                            endTime="00:12:14">
+            <pbcore:pbcoreIdentifier source="local">20220119_Duarte_Mitsy-Gissela_Q17</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>And can you tell us a little more about when you left your apartment? You mention that you woke up and had quite a few messages and missed calls. Who did you leave with, to Pigeon Forge, and what was the experience like, of trying to get out of Gatlinburg, fleeing from the fire? Could you see fire or smoke around your apartment? What were some of the things you noticed?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 17</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Preguntas de entrevista"
+                            startTime="00:11:08"
+                            endTime="00:12:14">
+            <pbcore:pbcoreIdentifier source="local">20220119_Duarte_Mitsy-Gissela_esQ17</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Y nos puede contar un poco más sobre cuándo salió usted de su apartamento? Menciona verdad que se despertó y tenía bastantes mensajes y llamadas perdidas. Con quien usted salió verdad, para Pigeon Forge, y cuál fue la experiencia verdad, de salir de, de tratar de salir de Gatlinburg, huyendo del fuego? Usted podía ver alrededor de su apartamento fuego o humo? Cuáles fueron las cosas que usted notó?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Pregunta 17</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:12:14"
+                            endTime="00:12:36">
+            <pbcore:pbcoreIdentifier source="local">20220119_Duarte_Mitsy-Gissela_Q18</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>And is there something surprising or something good that you think resulted from this tragic incident?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 18</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Preguntas de entrevista"
+                            startTime="00:12:14"
+                            endTime="00:12:36">
+            <pbcore:pbcoreIdentifier source="local">20220119_Duarte_Mitsy-Gissela_esQ18</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Y hay algo sorprendente o algo bueno que usted cree que haya resultado de este incidente tan trágico?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Pregunta 18</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:12:36"
+                            endTime="00:13:22">
+            <pbcore:pbcoreIdentifier source="local">20220119_Duarte_Mitsy-Gissela_Q19</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>The fires had a grave impact on the Hispanic community, and now this past year. These past 2 years, we have been dealing with the Covid-19 pandemic. Can you tell us how the pandemic has affected you, or how it has affected the Hispanic community of Gatlinburg?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 19</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Preguntas de entrevista"
+                            startTime="00:12:36"
+                            endTime="00:13:22">
+            <pbcore:pbcoreIdentifier source="local">20220119_Duarte_Mitsy-Gissela_esQ19</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Los incendios tuvieron un impacto grave en la comunidad Hispana, y ahora este último año. Estos últimos 2 años, hemos estado lidiando con la pandemia de Covid-19. Nos puede comentar como la pandemia la ha afectado a usted, o cómo ha afectado a la comunidad Hispana de Gatlinburg?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Pregunta 19</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Interview Questions"
+                            startTime="00:13:22"
+                            endTime="00:14:37">
+            <pbcore:pbcoreIdentifier source="local">20220119_Duarte_Mitsy-Gissela_Q20</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>And is there anything else you would like to say about the fires, that we have not had the opportunity to mention or, is there something you want to say, about the fires?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Question 20</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+         <pbcore:pbcorePart partType="Preguntas de entrevista"
+                            startTime="00:13:22"
+                            endTime="00:14:37">
+            <pbcore:pbcoreIdentifier source="local">20220119_Duarte_Mitsy-Gissela_esQ20</pbcore:pbcoreIdentifier>
+            <pbcore:pbcoreTitle>Y hay algo más que quiera decir sobre los incendios, que aún no hemos tenido la oportunidad de mencionar o, hay algo que quiera decir verdad, sobre los incendios?</pbcore:pbcoreTitle>
+            <pbcore:pbcoreDescription>Pregunta 20</pbcore:pbcoreDescription>
+         </pbcore:pbcorePart>
+      </pbcore:pbcoreDescriptionDocument>
+   </extension>
+</mods>
